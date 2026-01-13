@@ -28,6 +28,22 @@ This project maintains the `GoldenDict` application data directory under version
 
 [Return to Top](#goldendict-configuration)
 
+## Environment
+This configuration is verified with **[GoldenDict-ng](https://github.com/xiaoyifang/goldendict-ng)**:
+- **OS**: Windows 11 (x86_64)
+- **Version**: 25.06.0.8a87a79 (2025-06-18)
+- **Qt Version**: 6.7.2
+
+This version is included in release **v1.0.0**.
+
+### Installation
+To install, take the release archive and unpack it into your `Program Files` directory (e.g., `C:\Program Files\GoldenDict`).
+
+### Known Issues
+- **Transition Problem**: There is a known issue with transitions. See [goldendict-ng#2683](https://github.com/xiaoyifang/goldendict-ng/issues/2683) for details.
+
+[Return to Top](#goldendict-configuration)
+
 ## Project Structure
 - `config`: The main configuration file for GoldenDict.
 - `styles/`: Contains custom CSS files for tweaking the look and feel of dictionary entries.
