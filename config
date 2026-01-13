@@ -1,0 +1,982 @@
+<config>
+ <paths>
+  <path recursive="1">C:/Dictionary/20240125091909 Dictionary/20231028134050 LDaF Goldendict/De</path>
+  <path recursive="1">C:/Dictionary/20240125091909 Dictionary/20240125101357 Babylon Oxford English/En</path>
+  <path recursive="1">C:/Dictionary/20240125091909 Dictionary/20240125103642 StarDict LDaF/De</path>
+  <path recursive="1">C:/Dictionary/20240125091909 Dictionary/20240125103336 StarDict Duden/De</path>
+  <path recursive="0">C:/Dictionary/20240125091909 Dictionary/20240125103429 StarDict De-Ru-De/De-Ru</path>
+  <path recursive="0">C:/Dictionary/20240125091909 Dictionary/20240125103429 StarDict De-Ru-De/Ru-De</path>
+  <path recursive="0">C:/Dictionary/20240125091909 Dictionary/20240125104132 xdxf De-En-De/De-En</path>
+  <path recursive="0">C:/Dictionary/20240125091909 Dictionary/20240125104132 xdxf De-En-De/En-De</path>
+  <path recursive="0">C:/Dictionary/20240125091909 Dictionary/20240125104059 xdxf En-Ru-En/En-Ru</path>
+  <path recursive="0">C:/Dictionary/20240125091909 Dictionary/20240125104059 xdxf En-Ru-En/Ru-En</path>
+  <path recursive="1">C:/Dictionary/20240125091909 Dictionary/20240125103051 StarDict Lingvo Ger/De-Ru</path>
+  <path recursive="1">C:/Dictionary/20240125091909 Dictionary/20240125103051 StarDict Lingvo Ger/Ru-De</path>
+  <path recursive="1">C:/Dictionary/20240125091909 Dictionary/20240125102951 StarDict Lingvo Eng/En-Ru</path>
+  <path recursive="1">C:/Dictionary/20240125091909 Dictionary/20240125102951 StarDict Lingvo Eng/Ru-En</path>
+  <path recursive="1">C:/Dictionary/20240125091909 Dictionary/20240125093304 Wiktionary/De</path>
+  <path recursive="0">C:/Dictionary/20240125091909 Dictionary/20240211185837 DWDS Frequenzbarometer (MDX)/De</path>
+  <path recursive="1">C:/Dictionary/20240125091909 Dictionary/20240125093304 Wiktionary/En</path>
+  <path recursive="1">C:/Dictionary/20240125091909 Dictionary/20240225182152 Collins Cobuild ALED/En</path>
+  <path recursive="0">C:/Dictionary/20240125091909 Dictionary/20250126110742 Большой немецко-русский словарь</path>
+  <path recursive="1">C:/Dictionary/20240125091909 Dictionary/20250126111146 Большой немецко-русский словарь - Lein</path>
+  <path recursive="0">C:/Dictionary/20240125091909 Dictionary/20250126204712 Русско-немецкий разговорник</path>
+  <path recursive="1">C:/Dictionary/20240125091909 Dictionary/20250126205257 Lingvo 12 (DE-RU-DE)</path>
+  <path recursive="1">C:/Dictionary/20240125091909 Dictionary/20250126205312 Multitran Ru-De (MDX)</path>
+  <path recursive="0">C:/Dictionary/20240125091909 Dictionary/20250126205402 Langenscheidt Standard-Wörterbuch Russisch (Ru-De)</path>
+  <path recursive="0">C:/Dictionary/20240125091909 Dictionary/20250126224924 Немецко-русский словарь по автомобильной технике и автосервису</path>
+  <path recursive="0">C:/Dictionary/20240125091909 Dictionary/20250126224928 Русско-немецкий индекс к Немецко-русскому словарю по автомобильной технике и автосервису</path>
+ </paths>
+ <sounddirs>
+  <sounddir icon="" name="de">C:/Dictionary/20240124233825 Dict Ru-Board Forvo/de/de</sounddir>
+  <sounddir icon="" name="en">C:/Dictionary/20240124233825 Dict Ru-Board Forvo/en/en</sounddir>
+ </sounddirs>
+ <dictionaryOrder id="0" name="">
+  <dictionary name="English Wiktionary">affcf9678e7bfe701c9b071f97eccba3</dictionary>
+  <dictionary name="Russian Wiktionary">b09947600ae3902654f8ad4567ae8567</dictionary>
+  <dictionary name="German Wiktionary">21c64bca5ec10ba17ff19f3066bc962a</dictionary>
+  <dictionary name="gTTS En">0622c6c540c4201fa805879c418825ec</dictionary>
+  <dictionary name="gTTS Ru">484f6c7fd90a1cf458fa1ce1c72ca965</dictionary>
+  <dictionary name="gTTS De">d90324a060e4cc7179ebf4b9107d20d7</dictionary>
+  <dictionary name="deu-deu_Langenscheidt-e-Woerterbuch-DaF">e06308ee0f7ed7a58d8066234bac2431</dictionary>
+  <dictionary name="Oxford English Dictionary">cabb45d4c2da270b54185ded9a6670a4</dictionary>
+  <dictionary name="LDaF">a578dd1ccc27b279e5cb02d8fa67f9db</dictionary>
+  <dictionary name="Duden">7dcbd247efb24d0099912e048f73a3f0</dictionary>
+  <dictionary name="Universal (Ge-Ru)">7e3fef945c78aabfbc4bd511e5493da7</dictionary>
+  <dictionary name="Active (Ge-Ru)">dad664b829e926cd60230e46a550aa91</dictionary>
+  <dictionary name="Austria (Ge-Ru)">4530df7612e00a1b2261a93b56145eaa</dictionary>
+  <dictionary name="Auto (Ge-Ru)">b3bbbc4f240952c1b2d3e530941840f0</dictionary>
+  <dictionary name="AutoService (Ge-Ru)">ba92beb40c740371ced9183550d91104</dictionary>
+  <dictionary name="Banks (Ge-Ru)">0ca8f583834c59d983f01ef4d6bb36ac</dictionary>
+  <dictionary name="Chemistry (Ge-Ru)">2eb73cfc000c23a8e2ba573ab3c8e85b</dictionary>
+  <dictionary name="Economics (Ge-Ru)">23d4874e3de011d787ce5c64ab9b2990</dictionary>
+  <dictionary name="Essential (Ge-Ru)">d4da84771286c63705b5b041c940682d</dictionary>
+  <dictionary name="Food (Ge-Ru)">81a231c0680552436b5644ce3fed3e3e</dictionary>
+  <dictionary name="Law (Ge-Ru)">8f8f170959c20cbb961c24875f886eea</dictionary>
+  <dictionary name="Medical (Ge-Ru)">92e062607bedf9849047a3255fe71fee</dictionary>
+  <dictionary name="Polytechnical (Ge-Ru)">47ab7c220ca9ef1e3d1341a00485bf0a</dictionary>
+  <dictionary name="LingvoUniversal (En-Ru)">bcdc37e6f327537c5f71ead15b3aff65</dictionary>
+  <dictionary name="Accounting (En-Ru)">788fee357fe0c17b69a6fde7b6fd773a</dictionary>
+  <dictionary name="Americana (En-Ru)">e415a31e0cd77d3bcdb5024e225e1320</dictionary>
+  <dictionary name="Auto (En-Ru)">788fac87ba40b3d8cc4d99ca5292e5ce</dictionary>
+  <dictionary name="Biology (En-Ru)">61b4010e4d4ba23243991d2ca01ebfef</dictionary>
+  <dictionary name="Building (En-Ru)">d8e71f126c7487c7d4ba153b93572719</dictionary>
+  <dictionary name="LingvoComputer (En-Ru)">47bcc9f7f6db1234a384b8a5c19e2a32</dictionary>
+  <dictionary name="Computers (En-Ru)">30f4a589857744b33722c3465fdde2b7</dictionary>
+  <dictionary name="LingvoEconomics (En-Ru)">681261050d4967d32ff5b6beb78751a7</dictionary>
+  <dictionary name="Engineering (En-Ru)">bec4af0ff1ef6a79c7bc67ea10eb9351</dictionary>
+  <dictionary name="Essential (En-Ru)">62facb96f8fb3528391735c3d246fa21</dictionary>
+  <dictionary name="FinancialManagement (En-Ru)">739b2a532f24979c8f7d6d52472f9728</dictionary>
+  <dictionary name="FinancialMarkets (En-Ru)">9d756d96b44c1c125783e5ce218cf8e0</dictionary>
+  <dictionary name="LingvoGrammar (En-Ru)">6be99730ccdbd9888465ad8058b00361</dictionary>
+  <dictionary name="GreatBritain (En-Ru)">e3a78fe449c5e9e682ef470ff94db3cb</dictionary>
+  <dictionary name="Informal (En-Ru)">3dcb52f330508260a4ec13c3e89772bc</dictionary>
+  <dictionary name="Law (En-Ru)">2d44a88156059d41bc54f5d105872f2c</dictionary>
+  <dictionary name="Management (En-Ru)">ffee7c3da3f66ce65bf119ce1b8e2f5b</dictionary>
+  <dictionary name="Marketing (En-Ru)">0a3c75f149a1371393cf40c9047e5208</dictionary>
+  <dictionary name="MechanicalEngineering (En-Ru)">574acd43a62bfb1a2f0c2c59456761b9</dictionary>
+  <dictionary name="Medical (En-Ru)">009f93e973121a73504c1b5e35af5af3</dictionary>
+  <dictionary name="OilAndGas (En-Ru)">96206eb013bf4109ab2c5f99c1b6fb3d</dictionary>
+  <dictionary name="Patents (En-Ru)">69ae7a4575d237581654b87653ff13e7</dictionary>
+  <dictionary name="Physics (En-Ru)">75ebac4908408b571aea5e8ca072c11c</dictionary>
+  <dictionary name="Polytechnical (En-Ru)">757bb916c5e8e2c02da9bdb21cce1d14</dictionary>
+  <dictionary name="LingvoScience (En-Ru)">134b9ee2d3fc773e3fcb812f63188726</dictionary>
+  <dictionary name="Telecoms (En-Ru)">627184e887579ba5970ed88c72bfb834</dictionary>
+  <dictionary name="Wine (En-Ru)">0bc50b6b8663db4c248fa035c155611c</dictionary>
+  <dictionary name="Auto (Ru-En)">53a913a32633b7531e69bac2b1bb9bd9</dictionary>
+  <dictionary name="Biology (Ru-En)">e82651f509b7604f9268b3562ba9f040</dictionary>
+  <dictionary name="Building (Ru-En)">00d3385d81bcc46eeb349112d835156c</dictionary>
+  <dictionary name="LingvoComputer (Ru-En)">c0f779e56bcc8b578550d6188e2ea391</dictionary>
+  <dictionary name="Computers (Ru-En)">20a8e37324bac2b0a15cfdde5949934f</dictionary>
+  <dictionary name="LingvoEconomics (Ru-En)">4d03ac64df803f8b25854fa08a28ebc7</dictionary>
+  <dictionary name="Engineering (Ru-En)">985f129f93d590e05f8173461fee516d</dictionary>
+  <dictionary name="Essential (Ru-En)">9fc6f244dc145b12419b6bb715c086ac</dictionary>
+  <dictionary name="Law (Ru-En)">ef419eeda9851057e4c550b5c2c80892</dictionary>
+  <dictionary name="MechanicalEngineering (Ru-En)">37cba36041b85a284eacba7d9078af79</dictionary>
+  <dictionary name="Medical (Ru-En)">109fdaa3511066f3003c32bf98a6ff35</dictionary>
+  <dictionary name="OilAndGas (Ru-En)">db81ee65b68e67bcb8a7cecbb15df4b0</dictionary>
+  <dictionary name="Patents (Ru-En)">f47fd0631753161b26a229e506d8c9ca</dictionary>
+  <dictionary name="PhraseBook (Ru-En)">1b732f241bbf1b8c637bbd16f94751f9</dictionary>
+  <dictionary name="Physics (Ru-En)">c435da13e4b2d8eff09c2823dc8f84dc</dictionary>
+  <dictionary name="Polytechnical (Ru-En)">441c655c2e3d1548d2241978c7bd148b</dictionary>
+  <dictionary name="LingvoScience (Ru-En)">b0b5b315a3f6aa78436a90ab5f803da3</dictionary>
+  <dictionary name="Telecoms (Ru-En)">2810e6c182d5a3428388a28a00765651</dictionary>
+  <dictionary name="LingvoUniversal (Ru-En)">5ad2dfbc246960a6ff5901d6eb78a782</dictionary>
+  <dictionary name="Auto (Ru-Ge)">41410aac0b60d20574eef40bcda3e333</dictionary>
+  <dictionary name="AutoService (Ru-Ge)">9a6e57564818ba281fa7c609add67956</dictionary>
+  <dictionary name="Chemistry (Ru-Ge)">1a916dc24e83cdbda5878a6caf6133fa</dictionary>
+  <dictionary name="Economics (Ru-Ge)">8f9bda5742b863d0f605ab95192b61ba</dictionary>
+  <dictionary name="Essential (Ru-Ge)">34a352a7117255c21664640d8f953985</dictionary>
+  <dictionary name="Food (Ru-Ge)">60ba308d5814631b2afe495de4cd249b</dictionary>
+  <dictionary name="Law (Ru-Ge)">62ce064c84a3a1b60b95f3bbc6864833</dictionary>
+  <dictionary name="Medical (Ru-Ge)">097ba850cbeb9798afc819ffbe8d54a6</dictionary>
+  <dictionary name="PhraseBook (Ru-Ge)">7bbc2003951dc811d4599b8a0a46f7d3</dictionary>
+  <dictionary name="Polytechnical (Ru-Ge)">4bd686e44fb24098b323852de8251467</dictionary>
+  <dictionary name="Universal (Ru-Ge)">41a9f2257d5b6b1dd04deaa5e2eff271</dictionary>
+  <dictionary name="Wiktionary">4188a0497e0c2b7eb207c8c081db31a7</dictionary>
+  <dictionary name="de">f6e67dc564f8ba846ac4e5eaaf7169be</dictionary>
+  <dictionary name="en">c26fee1834fe1885d38b9f12d7371c66</dictionary>
+  <dictionary name="Wiktionary">3fd4ebd7237f7b031dfd2cbbdd155987</dictionary>
+  <dictionary name="Collins Cobuild Advanced Learner's English Dictionary 2008  (En-En)">8d922e86863ddfb848b2bc9e964f3f9d</dictionary>
+  <dictionary name="Collins COBUILD Advanced Learner’s English Dictionary (5th ed.)">aec0400cbafec1784ded3515e9da8b20</dictionary>
+  <dictionary name="Ukrainian Wiktionary">6fc02a2d4851ba12f66bc5a3d73fdd96</dictionary>
+  <dictionary name="T1 Uk-Ru">0751531aea5912235d5080cec4528cae</dictionary>
+  <dictionary name="gTTS Uk">24694a125979d1fb7f5a1acde08616be</dictionary>
+  <dictionary name="Q">9da2c8db7e2b7eea900a328843d1ca32</dictionary>
+  <dictionary name="Pip De">a4a9ff76c6f9cf763cfda8013822a7ba</dictionary>
+  <dictionary name="Pip En">5bf907bbd3aba8fcb17e12338a11eea1</dictionary>
+  <dictionary name="Pip Ru">2417d6fc797de42b86bcc33765161d0c</dictionary>
+  <dictionary name="dT-g Ru-Uk">d1bcef64d3d7ad0747c38b0c48388c9a</dictionary>
+  <dictionary name="dT-g Uk-Ru">cb2c34504ce46bfeaa7870102a43dca0</dictionary>
+  <dictionary name="De kW S">681c36d2fb844c4ba12d58bec8e8304e</dictionary>
+  <dictionary name="dT-g De-Uk">72d9b051d3d38da1c9068180820f38f9</dictionary>
+  <dictionary name="dT-g En-Uk">d63d0024ad838078be34b5175b17d7dd</dictionary>
+  <dictionary name="Universal (De-Ru)">03ce232c7d26258522b51aa6aac5bb1d</dictionary>
+  <dictionary name="Большой немецко-русский словарь (Deu-Rus)">88b3fa6be2cbc7b4f490361586154bd5</dictionary>
+  <dictionary name="PhraseBookRuDe">76c46da28408094328877f01e4f12958</dictionary>
+  <dictionary name="PhraseBook (Ru-De)">9d586eb0b37ae459a17b115ace43a151</dictionary>
+  <dictionary name="Lingvo 12 (De&lt;>Ru)">bdeac88c439d979437d403519290df9c</dictionary>
+  <dictionary name="(Ru-De) Multitran">638de682946148ea050fe7923e9b9c91</dictionary>
+  <dictionary name="Langenscheidt Standard Wörterbuch Russisch (Rus-Deu)">53856034182536d6da24662c59811ed3</dictionary>
+  <dictionary name="AutoService (De-Ru)">b1007eb52af3d7dc7200f21b1b84a003</dictionary>
+  <dictionary name="AutoService (Ru-De)">72c7bd32bbc2be116aee891a93525180</dictionary>
+  <dictionary name="dT-d En-Ru">55adc197c0dd34c2d84623beb56ddd9e</dictionary>
+  <dictionary name="dT-d De-Ru">2e2e11a21876bbc6637016aca123fa1e</dictionary>
+  <dictionary name="dT-d Ru-En">67322d091ab29620b8f92b627cd45559</dictionary>
+  <dictionary name="dT-d Ru-De">6e138a4f8bc4e35cc818d6cd8364ec88</dictionary>
+  <dictionary name="fB En-De-Ru 2">90103373730072471aa333862c79bab1</dictionary>
+  <dictionary name="fB FH De 2">e6300dd58c30d6da6ac40920eca5db44</dictionary>
+  <dictionary name="Anki W">885fcb322fd8aefcf71bf8f6c4972ccb</dictionary>
+  <dictionary name="Anki S">0926a44fcf6b57f827400ed2e775e12f</dictionary>
+  <dictionary name="fB GR De 2">8a21cef256b1e68e41655c056d281405</dictionary>
+  <dictionary name="fB WUK De 2">490240613e3a9d9c8810bc1d903c8602</dictionary>
+  <dictionary name="De kW L Anki">c4d16b195ed902d8c332833aff63d8a9</dictionary>
+  <dictionary name="ftca">1174df72e600d0746f4a6629b4496edc</dictionary>
+  <dictionary name="De kW M">8ab4b240b6398afb6b3ac8e58bf4d65e</dictionary>
+  <dictionary name="En kW">2c58fa9b9ca6e98fb30ce6744c9ced10</dictionary>
+  <dictionary name="En kW Anki">ff5b9cbf02bbcff50a44032b60d7c5ca</dictionary>
+  <dictionary name="De kW L">3b6d899a3250c7565990293bcecd11e0</dictionary>
+  <dictionary name="De kW M Anki">1c983f8fff4a6f5ebb8dbfe805201471</dictionary>
+  <dictionary name="De kW S Anki">d50676c9523fc1a4e7fe5d63ca37c666</dictionary>
+  <dictionary name="aR En-Ru">a16dcb3a27ecd83b944d86376f9f71cc</dictionary>
+  <dictionary name="aR De-Ru">7326cf32e0ec4518862cf4b870a98d56</dictionary>
+  <dictionary name="Anki W HTML">79c300ca6d91f5981842da1e58a761b2</dictionary>
+  <dictionary name="Anki S HTML">63ced5dafb77d143f47d08c9d5f221c0</dictionary>
+  <dictionary name="dT-g En-Ru">ca0a918ab349225644b171a4caf460f5</dictionary>
+  <dictionary name="dT-g De-Ru">9e006176d541e64c93b2c055d5940537</dictionary>
+  <dictionary name="dT-g Ru-En">ae6fd723e9ac1040a28215e8bd522079</dictionary>
+  <dictionary name="dT-g Ru-De">3ad29918443515dc00b14643d31184a0</dictionary>
+  <dictionary name="dT-m En-Ru">c769eac8c7864ae4021a27d4de065a3d</dictionary>
+  <dictionary name="dT-m De-Ru">792eedcd3d1a725625554b2275536ac2</dictionary>
+  <dictionary name="dT-m Ru-En">64c39cfab8826fc98a9dbf3cf6f61e3d</dictionary>
+  <dictionary name="dT-m Ru-De">fa9fe6ddbde269404008b43569fef63f</dictionary>
+  <dictionary name="dT-g En-De">411c606a760b7a6cfab788b7268f600f</dictionary>
+  <dictionary name="dT-g De-En">fb15f262552c4bd4f5d6acb70c78a806</dictionary>
+  <dictionary name="aR Ru-En">11745c8ac9564a93d2e8ddf3118f782a</dictionary>
+  <dictionary name="aR Ru-De">237f8ef5a6597f76d81f4eb121a10566</dictionary>
+  <dictionary name="aR De-En">23c257e114e732465bbb7d71b525275f</dictionary>
+  <dictionary name="aR En-De">ad9edf494e45b8688ed25c6b2840928e</dictionary>
+  <dictionary name="lV En-Ru">d5542be2a5f8c46ae8dc194a6cde8cef</dictionary>
+  <dictionary name="lV En-Uk">4f42e7acbcef5f0b7777cf570baabf18</dictionary>
+  <dictionary name="lV En-De">80b1eed4dc029dced92d18682079c0a1</dictionary>
+  <dictionary name="lV De-Ru">01d1c3e4bb021884f1135cf76bddc7ba</dictionary>
+  <dictionary name="lV De-Uk">783badb39edba35856d696d3b9fb865c</dictionary>
+  <dictionary name="lV De-En">2109ef08b514e400ebda81a2c67fd0a2</dictionary>
+  <dictionary name="lV Ru-Uk">db85f013aaf1e27d19ae784eba80bf41</dictionary>
+  <dictionary name="lV Ru-De">78aeeae11dc9b2a64241f73a3e9060a2</dictionary>
+  <dictionary name="lV Uk-Ru">ae12c8925bbdbad5677a513cecbd0e33</dictionary>
+  <dictionary name="lV Uk-En">31b905e5405fc06311f68becba1cd4a5</dictionary>
+  <dictionary name="lV Uk-De">3147a990bfe83cd7cd03b4497ab579e4</dictionary>
+  <dictionary name="lV Ru-En">3d772c2aaafff3567a57b89dcc88ee8b</dictionary>
+  <dictionary name="Anki B Clipboard">ab638e72c53ff94ac32a40f4582c4db5</dictionary>
+  <dictionary name="De kW S Anki dedup">e7dc5a11bc3f8b361edad8d208c9981d</dictionary>
+  <dictionary name="Anki W H En">bc5a0b0f2f3d7dd61da3653dae8459b0</dictionary>
+  <dictionary name="Anki W H De">9d9885361ffbc0ffeb49a1f2a6ffb2ed</dictionary>
+  <dictionary name="Anki S H En">5bc3ac49c2d0765f8904f03841fe521d</dictionary>
+  <dictionary name="Anki S H De">f5023906792a087c58515130d83b6add</dictionary>
+  <mutedDictionaries/>
+ </dictionaryOrder>
+ <inactiveDictionaries id="0" name="">
+  <mutedDictionaries/>
+ </inactiveDictionaries>
+ <groups nextId="20">
+  <group id="18" name="Util">
+   <dictionary name="Q">9da2c8db7e2b7eea900a328843d1ca32</dictionary>
+   <dictionary name="ftca">1174df72e600d0746f4a6629b4496edc</dictionary>
+   <dictionary name="En kW">2c58fa9b9ca6e98fb30ce6744c9ced10</dictionary>
+   <dictionary name="En kW Anki">ff5b9cbf02bbcff50a44032b60d7c5ca</dictionary>
+   <dictionary name="De kW S">681c36d2fb844c4ba12d58bec8e8304e</dictionary>
+   <dictionary name="De kW S Anki">d50676c9523fc1a4e7fe5d63ca37c666</dictionary>
+   <dictionary name="De kW S Anki dedup">e7dc5a11bc3f8b361edad8d208c9981d</dictionary>
+   <dictionary name="De kW M">8ab4b240b6398afb6b3ac8e58bf4d65e</dictionary>
+   <dictionary name="De kW M Anki">1c983f8fff4a6f5ebb8dbfe805201471</dictionary>
+   <dictionary name="De kW L">3b6d899a3250c7565990293bcecd11e0</dictionary>
+   <dictionary name="De kW L Anki">c4d16b195ed902d8c332833aff63d8a9</dictionary>
+   <mutedDictionaries>
+    <mutedDictionary>1174df72e600d0746f4a6629b4496edc</mutedDictionary>
+    <mutedDictionary>c4d16b195ed902d8c332833aff63d8a9</mutedDictionary>
+    <mutedDictionary>e7dc5a11bc3f8b361edad8d208c9981d</mutedDictionary>
+    <mutedDictionary>2c58fa9b9ca6e98fb30ce6744c9ced10</mutedDictionary>
+    <mutedDictionary>3b6d899a3250c7565990293bcecd11e0</mutedDictionary>
+    <mutedDictionary>681c36d2fb844c4ba12d58bec8e8304e</mutedDictionary>
+    <mutedDictionary>8ab4b240b6398afb6b3ac8e58bf4d65e</mutedDictionary>
+    <mutedDictionary>1c983f8fff4a6f5ebb8dbfe805201471</mutedDictionary>
+    <popupMutedDictionary>1174df72e600d0746f4a6629b4496edc</popupMutedDictionary>
+    <popupMutedDictionary>c4d16b195ed902d8c332833aff63d8a9</popupMutedDictionary>
+    <popupMutedDictionary>e7dc5a11bc3f8b361edad8d208c9981d</popupMutedDictionary>
+    <popupMutedDictionary>2c58fa9b9ca6e98fb30ce6744c9ced10</popupMutedDictionary>
+    <popupMutedDictionary>3b6d899a3250c7565990293bcecd11e0</popupMutedDictionary>
+    <popupMutedDictionary>681c36d2fb844c4ba12d58bec8e8304e</popupMutedDictionary>
+    <popupMutedDictionary>8ab4b240b6398afb6b3ac8e58bf4d65e</popupMutedDictionary>
+    <popupMutedDictionary>1c983f8fff4a6f5ebb8dbfe805201471</popupMutedDictionary>
+    <popupMutedDictionary>ff5b9cbf02bbcff50a44032b60d7c5ca</popupMutedDictionary>
+   </mutedDictionaries>
+  </group>
+  <group icon="us.png" id="5" name="1 En-Ru" shortcut="Ctrl+1">
+   <dictionary name="en">c26fee1834fe1885d38b9f12d7371c66</dictionary>
+   <dictionary name="Pip En">5bf907bbd3aba8fcb17e12338a11eea1</dictionary>
+   <dictionary name="gTTS En">0622c6c540c4201fa805879c418825ec</dictionary>
+   <dictionary name="Q">9da2c8db7e2b7eea900a328843d1ca32</dictionary>
+   <dictionary name="LingvoUniversal (En-Ru)">bcdc37e6f327537c5f71ead15b3aff65</dictionary>
+   <dictionary name="fB En-De-Ru 2">90103373730072471aa333862c79bab1</dictionary>
+   <dictionary name="dT-d En-Ru">55adc197c0dd34c2d84623beb56ddd9e</dictionary>
+   <dictionary name="dT-m En-Ru">c769eac8c7864ae4021a27d4de065a3d</dictionary>
+   <dictionary name="dT-g En-Ru">ca0a918ab349225644b171a4caf460f5</dictionary>
+   <dictionary name="lV En-Ru">d5542be2a5f8c46ae8dc194a6cde8cef</dictionary>
+   <dictionary name="aR En-Ru">a16dcb3a27ecd83b944d86376f9f71cc</dictionary>
+   <dictionary name="Anki W H En">bc5a0b0f2f3d7dd61da3653dae8459b0</dictionary>
+   <dictionary name="Anki S H En">5bc3ac49c2d0765f8904f03841fe521d</dictionary>
+   <dictionary name="Anki W HTML">79c300ca6d91f5981842da1e58a761b2</dictionary>
+   <dictionary name="Anki S HTML">63ced5dafb77d143f47d08c9d5f221c0</dictionary>
+   <dictionary name="Anki W">885fcb322fd8aefcf71bf8f6c4972ccb</dictionary>
+   <dictionary name="Anki S">0926a44fcf6b57f827400ed2e775e12f</dictionary>
+   <dictionary name="En kW">2c58fa9b9ca6e98fb30ce6744c9ced10</dictionary>
+   <dictionary name="Wiktionary">3fd4ebd7237f7b031dfd2cbbdd155987</dictionary>
+   <dictionary name="Essential (En-Ru)">62facb96f8fb3528391735c3d246fa21</dictionary>
+   <dictionary name="FinancialManagement (En-Ru)">739b2a532f24979c8f7d6d52472f9728</dictionary>
+   <dictionary name="FinancialMarkets (En-Ru)">9d756d96b44c1c125783e5ce218cf8e0</dictionary>
+   <dictionary name="LingvoGrammar (En-Ru)">6be99730ccdbd9888465ad8058b00361</dictionary>
+   <dictionary name="GreatBritain (En-Ru)">e3a78fe449c5e9e682ef470ff94db3cb</dictionary>
+   <dictionary name="Informal (En-Ru)">3dcb52f330508260a4ec13c3e89772bc</dictionary>
+   <dictionary name="Law (En-Ru)">2d44a88156059d41bc54f5d105872f2c</dictionary>
+   <dictionary name="Management (En-Ru)">ffee7c3da3f66ce65bf119ce1b8e2f5b</dictionary>
+   <dictionary name="Marketing (En-Ru)">0a3c75f149a1371393cf40c9047e5208</dictionary>
+   <dictionary name="MechanicalEngineering (En-Ru)">574acd43a62bfb1a2f0c2c59456761b9</dictionary>
+   <dictionary name="Medical (En-Ru)">009f93e973121a73504c1b5e35af5af3</dictionary>
+   <dictionary name="OilAndGas (En-Ru)">96206eb013bf4109ab2c5f99c1b6fb3d</dictionary>
+   <dictionary name="Patents (En-Ru)">69ae7a4575d237581654b87653ff13e7</dictionary>
+   <dictionary name="Physics (En-Ru)">75ebac4908408b571aea5e8ca072c11c</dictionary>
+   <dictionary name="Polytechnical (En-Ru)">757bb916c5e8e2c02da9bdb21cce1d14</dictionary>
+   <dictionary name="LingvoScience (En-Ru)">134b9ee2d3fc773e3fcb812f63188726</dictionary>
+   <dictionary name="Telecoms (En-Ru)">627184e887579ba5970ed88c72bfb834</dictionary>
+   <dictionary name="Wine (En-Ru)">0bc50b6b8663db4c248fa035c155611c</dictionary>
+   <dictionary name="Collins COBUILD Advanced Learner’s English Dictionary (5th ed.)">aec0400cbafec1784ded3515e9da8b20</dictionary>
+   <dictionary name="Collins Cobuild Advanced Learner's English Dictionary 2008  (En-En)">8d922e86863ddfb848b2bc9e964f3f9d</dictionary>
+   <dictionary name="Oxford English Dictionary">cabb45d4c2da270b54185ded9a6670a4</dictionary>
+   <dictionary name="ftca">1174df72e600d0746f4a6629b4496edc</dictionary>
+   <dictionary name="Anki B Clipboard">ab638e72c53ff94ac32a40f4582c4db5</dictionary>
+   <mutedDictionaries>
+    <mutedDictionary>627184e887579ba5970ed88c72bfb834</mutedDictionary>
+    <mutedDictionary>0bc50b6b8663db4c248fa035c155611c</mutedDictionary>
+    <mutedDictionary>9d756d96b44c1c125783e5ce218cf8e0</mutedDictionary>
+    <mutedDictionary>1174df72e600d0746f4a6629b4496edc</mutedDictionary>
+    <mutedDictionary>ffee7c3da3f66ce65bf119ce1b8e2f5b</mutedDictionary>
+    <mutedDictionary>cabb45d4c2da270b54185ded9a6670a4</mutedDictionary>
+    <mutedDictionary>c769eac8c7864ae4021a27d4de065a3d</mutedDictionary>
+    <mutedDictionary>009f93e973121a73504c1b5e35af5af3</mutedDictionary>
+    <mutedDictionary>574acd43a62bfb1a2f0c2c59456761b9</mutedDictionary>
+    <mutedDictionary>3dcb52f330508260a4ec13c3e89772bc</mutedDictionary>
+    <mutedDictionary>bcdc37e6f327537c5f71ead15b3aff65</mutedDictionary>
+    <mutedDictionary>6be99730ccdbd9888465ad8058b00361</mutedDictionary>
+    <mutedDictionary>69ae7a4575d237581654b87653ff13e7</mutedDictionary>
+    <mutedDictionary>96206eb013bf4109ab2c5f99c1b6fb3d</mutedDictionary>
+    <mutedDictionary>0622c6c540c4201fa805879c418825ec</mutedDictionary>
+    <mutedDictionary>739b2a532f24979c8f7d6d52472f9728</mutedDictionary>
+    <mutedDictionary>e3a78fe449c5e9e682ef470ff94db3cb</mutedDictionary>
+    <mutedDictionary>62facb96f8fb3528391735c3d246fa21</mutedDictionary>
+    <mutedDictionary>3fd4ebd7237f7b031dfd2cbbdd155987</mutedDictionary>
+    <mutedDictionary>d5542be2a5f8c46ae8dc194a6cde8cef</mutedDictionary>
+    <mutedDictionary>63ced5dafb77d143f47d08c9d5f221c0</mutedDictionary>
+    <mutedDictionary>c26fee1834fe1885d38b9f12d7371c66</mutedDictionary>
+    <mutedDictionary>8d922e86863ddfb848b2bc9e964f3f9d</mutedDictionary>
+    <mutedDictionary>134b9ee2d3fc773e3fcb812f63188726</mutedDictionary>
+    <mutedDictionary>75ebac4908408b571aea5e8ca072c11c</mutedDictionary>
+    <mutedDictionary>885fcb322fd8aefcf71bf8f6c4972ccb</mutedDictionary>
+    <mutedDictionary>757bb916c5e8e2c02da9bdb21cce1d14</mutedDictionary>
+    <mutedDictionary>0a3c75f149a1371393cf40c9047e5208</mutedDictionary>
+    <mutedDictionary>a16dcb3a27ecd83b944d86376f9f71cc</mutedDictionary>
+    <mutedDictionary>79c300ca6d91f5981842da1e58a761b2</mutedDictionary>
+    <mutedDictionary>aec0400cbafec1784ded3515e9da8b20</mutedDictionary>
+    <mutedDictionary>bc5a0b0f2f3d7dd61da3653dae8459b0</mutedDictionary>
+    <mutedDictionary>2d44a88156059d41bc54f5d105872f2c</mutedDictionary>
+    <mutedDictionary>0926a44fcf6b57f827400ed2e775e12f</mutedDictionary>
+    <mutedDictionary>ab638e72c53ff94ac32a40f4582c4db5</mutedDictionary>
+    <popupMutedDictionary>627184e887579ba5970ed88c72bfb834</popupMutedDictionary>
+    <popupMutedDictionary>0bc50b6b8663db4c248fa035c155611c</popupMutedDictionary>
+    <popupMutedDictionary>9d756d96b44c1c125783e5ce218cf8e0</popupMutedDictionary>
+    <popupMutedDictionary>ffee7c3da3f66ce65bf119ce1b8e2f5b</popupMutedDictionary>
+    <popupMutedDictionary>1174df72e600d0746f4a6629b4496edc</popupMutedDictionary>
+    <popupMutedDictionary>cabb45d4c2da270b54185ded9a6670a4</popupMutedDictionary>
+    <popupMutedDictionary>c769eac8c7864ae4021a27d4de065a3d</popupMutedDictionary>
+    <popupMutedDictionary>574acd43a62bfb1a2f0c2c59456761b9</popupMutedDictionary>
+    <popupMutedDictionary>009f93e973121a73504c1b5e35af5af3</popupMutedDictionary>
+    <popupMutedDictionary>3dcb52f330508260a4ec13c3e89772bc</popupMutedDictionary>
+    <popupMutedDictionary>6be99730ccdbd9888465ad8058b00361</popupMutedDictionary>
+    <popupMutedDictionary>69ae7a4575d237581654b87653ff13e7</popupMutedDictionary>
+    <popupMutedDictionary>96206eb013bf4109ab2c5f99c1b6fb3d</popupMutedDictionary>
+    <popupMutedDictionary>0622c6c540c4201fa805879c418825ec</popupMutedDictionary>
+    <popupMutedDictionary>739b2a532f24979c8f7d6d52472f9728</popupMutedDictionary>
+    <popupMutedDictionary>e3a78fe449c5e9e682ef470ff94db3cb</popupMutedDictionary>
+    <popupMutedDictionary>3fd4ebd7237f7b031dfd2cbbdd155987</popupMutedDictionary>
+    <popupMutedDictionary>62facb96f8fb3528391735c3d246fa21</popupMutedDictionary>
+    <popupMutedDictionary>d5542be2a5f8c46ae8dc194a6cde8cef</popupMutedDictionary>
+    <popupMutedDictionary>63ced5dafb77d143f47d08c9d5f221c0</popupMutedDictionary>
+    <popupMutedDictionary>90103373730072471aa333862c79bab1</popupMutedDictionary>
+    <popupMutedDictionary>75ebac4908408b571aea5e8ca072c11c</popupMutedDictionary>
+    <popupMutedDictionary>134b9ee2d3fc773e3fcb812f63188726</popupMutedDictionary>
+    <popupMutedDictionary>8d922e86863ddfb848b2bc9e964f3f9d</popupMutedDictionary>
+    <popupMutedDictionary>885fcb322fd8aefcf71bf8f6c4972ccb</popupMutedDictionary>
+    <popupMutedDictionary>a16dcb3a27ecd83b944d86376f9f71cc</popupMutedDictionary>
+    <popupMutedDictionary>0a3c75f149a1371393cf40c9047e5208</popupMutedDictionary>
+    <popupMutedDictionary>757bb916c5e8e2c02da9bdb21cce1d14</popupMutedDictionary>
+    <popupMutedDictionary>79c300ca6d91f5981842da1e58a761b2</popupMutedDictionary>
+    <popupMutedDictionary>aec0400cbafec1784ded3515e9da8b20</popupMutedDictionary>
+    <popupMutedDictionary>0926a44fcf6b57f827400ed2e775e12f</popupMutedDictionary>
+    <popupMutedDictionary>2d44a88156059d41bc54f5d105872f2c</popupMutedDictionary>
+    <popupMutedDictionary>ab638e72c53ff94ac32a40f4582c4db5</popupMutedDictionary>
+   </mutedDictionaries>
+  </group>
+  <group icon="ru.png" id="11" name="2 Ru-En" shortcut="Ctrl+2">
+   <dictionary name="en">c26fee1834fe1885d38b9f12d7371c66</dictionary>
+   <dictionary name="Pip Ru">2417d6fc797de42b86bcc33765161d0c</dictionary>
+   <dictionary name="gTTS Ru">484f6c7fd90a1cf458fa1ce1c72ca965</dictionary>
+   <dictionary name="Q">9da2c8db7e2b7eea900a328843d1ca32</dictionary>
+   <dictionary name="dT-d Ru-En">67322d091ab29620b8f92b627cd45559</dictionary>
+   <dictionary name="dT-g Ru-En">ae6fd723e9ac1040a28215e8bd522079</dictionary>
+   <dictionary name="dT-m Ru-En">64c39cfab8826fc98a9dbf3cf6f61e3d</dictionary>
+   <dictionary name="aR Ru-En">11745c8ac9564a93d2e8ddf3118f782a</dictionary>
+   <dictionary name="LingvoUniversal (Ru-En)">5ad2dfbc246960a6ff5901d6eb78a782</dictionary>
+   <dictionary name="Essential (Ru-En)">9fc6f244dc145b12419b6bb715c086ac</dictionary>
+   <dictionary name="Auto (Ru-En)">53a913a32633b7531e69bac2b1bb9bd9</dictionary>
+   <dictionary name="Computers (Ru-En)">20a8e37324bac2b0a15cfdde5949934f</dictionary>
+   <dictionary name="LingvoComputer (Ru-En)">c0f779e56bcc8b578550d6188e2ea391</dictionary>
+   <dictionary name="PhraseBook (Ru-En)">1b732f241bbf1b8c637bbd16f94751f9</dictionary>
+   <dictionary name="Telecoms (Ru-En)">2810e6c182d5a3428388a28a00765651</dictionary>
+   <dictionary name="LingvoEconomics (Ru-En)">4d03ac64df803f8b25854fa08a28ebc7</dictionary>
+   <dictionary name="Law (Ru-En)">ef419eeda9851057e4c550b5c2c80892</dictionary>
+   <dictionary name="Patents (Ru-En)">f47fd0631753161b26a229e506d8c9ca</dictionary>
+   <dictionary name="Polytechnical (Ru-En)">441c655c2e3d1548d2241978c7bd148b</dictionary>
+   <dictionary name="Engineering (Ru-En)">985f129f93d590e05f8173461fee516d</dictionary>
+   <dictionary name="MechanicalEngineering (Ru-En)">37cba36041b85a284eacba7d9078af79</dictionary>
+   <dictionary name="Building (Ru-En)">00d3385d81bcc46eeb349112d835156c</dictionary>
+   <dictionary name="LingvoScience (Ru-En)">b0b5b315a3f6aa78436a90ab5f803da3</dictionary>
+   <dictionary name="Physics (Ru-En)">c435da13e4b2d8eff09c2823dc8f84dc</dictionary>
+   <dictionary name="OilAndGas (Ru-En)">db81ee65b68e67bcb8a7cecbb15df4b0</dictionary>
+   <dictionary name="Biology (Ru-En)">e82651f509b7604f9268b3562ba9f040</dictionary>
+   <dictionary name="Medical (Ru-En)">109fdaa3511066f3003c32bf98a6ff35</dictionary>
+   <dictionary name="Wiktionary">3fd4ebd7237f7b031dfd2cbbdd155987</dictionary>
+   <mutedDictionaries>
+    <mutedDictionary>db81ee65b68e67bcb8a7cecbb15df4b0</mutedDictionary>
+    <mutedDictionary>ef419eeda9851057e4c550b5c2c80892</mutedDictionary>
+    <mutedDictionary>c0f779e56bcc8b578550d6188e2ea391</mutedDictionary>
+    <mutedDictionary>53a913a32633b7531e69bac2b1bb9bd9</mutedDictionary>
+    <mutedDictionary>c435da13e4b2d8eff09c2823dc8f84dc</mutedDictionary>
+    <mutedDictionary>441c655c2e3d1548d2241978c7bd148b</mutedDictionary>
+    <mutedDictionary>b0b5b315a3f6aa78436a90ab5f803da3</mutedDictionary>
+    <mutedDictionary>e82651f509b7604f9268b3562ba9f040</mutedDictionary>
+    <mutedDictionary>f47fd0631753161b26a229e506d8c9ca</mutedDictionary>
+    <mutedDictionary>00d3385d81bcc46eeb349112d835156c</mutedDictionary>
+    <mutedDictionary>985f129f93d590e05f8173461fee516d</mutedDictionary>
+    <mutedDictionary>20a8e37324bac2b0a15cfdde5949934f</mutedDictionary>
+    <mutedDictionary>3fd4ebd7237f7b031dfd2cbbdd155987</mutedDictionary>
+    <mutedDictionary>9fc6f244dc145b12419b6bb715c086ac</mutedDictionary>
+    <mutedDictionary>2810e6c182d5a3428388a28a00765651</mutedDictionary>
+    <mutedDictionary>4d03ac64df803f8b25854fa08a28ebc7</mutedDictionary>
+    <mutedDictionary>1b732f241bbf1b8c637bbd16f94751f9</mutedDictionary>
+    <mutedDictionary>484f6c7fd90a1cf458fa1ce1c72ca965</mutedDictionary>
+    <mutedDictionary>109fdaa3511066f3003c32bf98a6ff35</mutedDictionary>
+    <mutedDictionary>c26fee1834fe1885d38b9f12d7371c66</mutedDictionary>
+    <mutedDictionary>2417d6fc797de42b86bcc33765161d0c</mutedDictionary>
+    <mutedDictionary>11745c8ac9564a93d2e8ddf3118f782a</mutedDictionary>
+    <mutedDictionary>5ad2dfbc246960a6ff5901d6eb78a782</mutedDictionary>
+    <mutedDictionary>37cba36041b85a284eacba7d9078af79</mutedDictionary>
+    <mutedDictionary>64c39cfab8826fc98a9dbf3cf6f61e3d</mutedDictionary>
+    <popupMutedDictionary>db81ee65b68e67bcb8a7cecbb15df4b0</popupMutedDictionary>
+    <popupMutedDictionary>ef419eeda9851057e4c550b5c2c80892</popupMutedDictionary>
+    <popupMutedDictionary>c0f779e56bcc8b578550d6188e2ea391</popupMutedDictionary>
+    <popupMutedDictionary>53a913a32633b7531e69bac2b1bb9bd9</popupMutedDictionary>
+    <popupMutedDictionary>c435da13e4b2d8eff09c2823dc8f84dc</popupMutedDictionary>
+    <popupMutedDictionary>441c655c2e3d1548d2241978c7bd148b</popupMutedDictionary>
+    <popupMutedDictionary>b0b5b315a3f6aa78436a90ab5f803da3</popupMutedDictionary>
+    <popupMutedDictionary>e82651f509b7604f9268b3562ba9f040</popupMutedDictionary>
+    <popupMutedDictionary>f47fd0631753161b26a229e506d8c9ca</popupMutedDictionary>
+    <popupMutedDictionary>00d3385d81bcc46eeb349112d835156c</popupMutedDictionary>
+    <popupMutedDictionary>985f129f93d590e05f8173461fee516d</popupMutedDictionary>
+    <popupMutedDictionary>20a8e37324bac2b0a15cfdde5949934f</popupMutedDictionary>
+    <popupMutedDictionary>3fd4ebd7237f7b031dfd2cbbdd155987</popupMutedDictionary>
+    <popupMutedDictionary>9fc6f244dc145b12419b6bb715c086ac</popupMutedDictionary>
+    <popupMutedDictionary>2810e6c182d5a3428388a28a00765651</popupMutedDictionary>
+    <popupMutedDictionary>4d03ac64df803f8b25854fa08a28ebc7</popupMutedDictionary>
+    <popupMutedDictionary>1b732f241bbf1b8c637bbd16f94751f9</popupMutedDictionary>
+    <popupMutedDictionary>484f6c7fd90a1cf458fa1ce1c72ca965</popupMutedDictionary>
+    <popupMutedDictionary>109fdaa3511066f3003c32bf98a6ff35</popupMutedDictionary>
+    <popupMutedDictionary>c26fee1834fe1885d38b9f12d7371c66</popupMutedDictionary>
+    <popupMutedDictionary>2417d6fc797de42b86bcc33765161d0c</popupMutedDictionary>
+    <popupMutedDictionary>11745c8ac9564a93d2e8ddf3118f782a</popupMutedDictionary>
+    <popupMutedDictionary>5ad2dfbc246960a6ff5901d6eb78a782</popupMutedDictionary>
+    <popupMutedDictionary>37cba36041b85a284eacba7d9078af79</popupMutedDictionary>
+    <popupMutedDictionary>64c39cfab8826fc98a9dbf3cf6f61e3d</popupMutedDictionary>
+   </mutedDictionaries>
+  </group>
+  <group icon="de.png" id="2" name="3 De-Ru" shortcut="Ctrl+3">
+   <dictionary name="de">f6e67dc564f8ba846ac4e5eaaf7169be</dictionary>
+   <dictionary name="Pip De">a4a9ff76c6f9cf763cfda8013822a7ba</dictionary>
+   <dictionary name="gTTS De">d90324a060e4cc7179ebf4b9107d20d7</dictionary>
+   <dictionary name="Q">9da2c8db7e2b7eea900a328843d1ca32</dictionary>
+   <dictionary name="Большой немецко-русский словарь (Deu-Rus)">88b3fa6be2cbc7b4f490361586154bd5</dictionary>
+   <dictionary name="Lingvo 12 (De&lt;>Ru)">bdeac88c439d979437d403519290df9c</dictionary>
+   <dictionary name="fB En-De-Ru 2">90103373730072471aa333862c79bab1</dictionary>
+   <dictionary name="dT-d De-Ru">2e2e11a21876bbc6637016aca123fa1e</dictionary>
+   <dictionary name="dT-m De-Ru">792eedcd3d1a725625554b2275536ac2</dictionary>
+   <dictionary name="dT-g De-Ru">9e006176d541e64c93b2c055d5940537</dictionary>
+   <dictionary name="lV De-Ru">01d1c3e4bb021884f1135cf76bddc7ba</dictionary>
+   <dictionary name="aR De-Ru">7326cf32e0ec4518862cf4b870a98d56</dictionary>
+   <dictionary name="Anki W H De">9d9885361ffbc0ffeb49a1f2a6ffb2ed</dictionary>
+   <dictionary name="Anki S H De">f5023906792a087c58515130d83b6add</dictionary>
+   <dictionary name="Anki W HTML">79c300ca6d91f5981842da1e58a761b2</dictionary>
+   <dictionary name="Anki S HTML">63ced5dafb77d143f47d08c9d5f221c0</dictionary>
+   <dictionary name="Anki W">885fcb322fd8aefcf71bf8f6c4972ccb</dictionary>
+   <dictionary name="Anki S">0926a44fcf6b57f827400ed2e775e12f</dictionary>
+   <dictionary name="fB GR De 2">8a21cef256b1e68e41655c056d281405</dictionary>
+   <dictionary name="fB WUK De 2">490240613e3a9d9c8810bc1d903c8602</dictionary>
+   <dictionary name="fB FH De 2">e6300dd58c30d6da6ac40920eca5db44</dictionary>
+   <dictionary name="De kW S">681c36d2fb844c4ba12d58bec8e8304e</dictionary>
+   <dictionary name="De kW M">8ab4b240b6398afb6b3ac8e58bf4d65e</dictionary>
+   <dictionary name="De kW L">3b6d899a3250c7565990293bcecd11e0</dictionary>
+   <dictionary name="De kW S Anki">d50676c9523fc1a4e7fe5d63ca37c666</dictionary>
+   <dictionary name="De kW M Anki">1c983f8fff4a6f5ebb8dbfe805201471</dictionary>
+   <dictionary name="De kW L Anki">c4d16b195ed902d8c332833aff63d8a9</dictionary>
+   <dictionary name="Wiktionary">4188a0497e0c2b7eb207c8c081db31a7</dictionary>
+   <dictionary name="Universal (Ge-Ru)">7e3fef945c78aabfbc4bd511e5493da7</dictionary>
+   <dictionary name="Essential (Ge-Ru)">d4da84771286c63705b5b041c940682d</dictionary>
+   <dictionary name="Active (Ge-Ru)">dad664b829e926cd60230e46a550aa91</dictionary>
+   <dictionary name="Polytechnical (Ge-Ru)">47ab7c220ca9ef1e3d1341a00485bf0a</dictionary>
+   <dictionary name="Auto (Ge-Ru)">b3bbbc4f240952c1b2d3e530941840f0</dictionary>
+   <dictionary name="AutoService (Ge-Ru)">ba92beb40c740371ced9183550d91104</dictionary>
+   <dictionary name="Economics (Ge-Ru)">23d4874e3de011d787ce5c64ab9b2990</dictionary>
+   <dictionary name="Banks (Ge-Ru)">0ca8f583834c59d983f01ef4d6bb36ac</dictionary>
+   <dictionary name="Law (Ge-Ru)">8f8f170959c20cbb961c24875f886eea</dictionary>
+   <dictionary name="Food (Ge-Ru)">81a231c0680552436b5644ce3fed3e3e</dictionary>
+   <dictionary name="Medical (Ge-Ru)">92e062607bedf9849047a3255fe71fee</dictionary>
+   <dictionary name="Chemistry (Ge-Ru)">2eb73cfc000c23a8e2ba573ab3c8e85b</dictionary>
+   <dictionary name="Austria (Ge-Ru)">4530df7612e00a1b2261a93b56145eaa</dictionary>
+   <dictionary name="LDaF">a578dd1ccc27b279e5cb02d8fa67f9db</dictionary>
+   <dictionary name="deu-deu_Langenscheidt-e-Woerterbuch-DaF">e06308ee0f7ed7a58d8066234bac2431</dictionary>
+   <dictionary name="Duden">7dcbd247efb24d0099912e048f73a3f0</dictionary>
+   <dictionary name="ftca">1174df72e600d0746f4a6629b4496edc</dictionary>
+   <dictionary name="Anki B Clipboard">ab638e72c53ff94ac32a40f4582c4db5</dictionary>
+   <mutedDictionaries>
+    <mutedDictionary>d50676c9523fc1a4e7fe5d63ca37c666</mutedDictionary>
+    <mutedDictionary>1174df72e600d0746f4a6629b4496edc</mutedDictionary>
+    <mutedDictionary>01d1c3e4bb021884f1135cf76bddc7ba</mutedDictionary>
+    <mutedDictionary>c4d16b195ed902d8c332833aff63d8a9</mutedDictionary>
+    <mutedDictionary>2eb73cfc000c23a8e2ba573ab3c8e85b</mutedDictionary>
+    <mutedDictionary>d90324a060e4cc7179ebf4b9107d20d7</mutedDictionary>
+    <mutedDictionary>4188a0497e0c2b7eb207c8c081db31a7</mutedDictionary>
+    <mutedDictionary>3b6d899a3250c7565990293bcecd11e0</mutedDictionary>
+    <mutedDictionary>4530df7612e00a1b2261a93b56145eaa</mutedDictionary>
+    <mutedDictionary>9e006176d541e64c93b2c055d5940537</mutedDictionary>
+    <mutedDictionary>81a231c0680552436b5644ce3fed3e3e</mutedDictionary>
+    <mutedDictionary>9d9885361ffbc0ffeb49a1f2a6ffb2ed</mutedDictionary>
+    <mutedDictionary>7dcbd247efb24d0099912e048f73a3f0</mutedDictionary>
+    <mutedDictionary>e06308ee0f7ed7a58d8066234bac2431</mutedDictionary>
+    <mutedDictionary>8f8f170959c20cbb961c24875f886eea</mutedDictionary>
+    <mutedDictionary>dad664b829e926cd60230e46a550aa91</mutedDictionary>
+    <mutedDictionary>23d4874e3de011d787ce5c64ab9b2990</mutedDictionary>
+    <mutedDictionary>8a21cef256b1e68e41655c056d281405</mutedDictionary>
+    <mutedDictionary>63ced5dafb77d143f47d08c9d5f221c0</mutedDictionary>
+    <mutedDictionary>7326cf32e0ec4518862cf4b870a98d56</mutedDictionary>
+    <mutedDictionary>490240613e3a9d9c8810bc1d903c8602</mutedDictionary>
+    <mutedDictionary>88b3fa6be2cbc7b4f490361586154bd5</mutedDictionary>
+    <mutedDictionary>0ca8f583834c59d983f01ef4d6bb36ac</mutedDictionary>
+    <mutedDictionary>92e062607bedf9849047a3255fe71fee</mutedDictionary>
+    <mutedDictionary>885fcb322fd8aefcf71bf8f6c4972ccb</mutedDictionary>
+    <mutedDictionary>681c36d2fb844c4ba12d58bec8e8304e</mutedDictionary>
+    <mutedDictionary>b3bbbc4f240952c1b2d3e530941840f0</mutedDictionary>
+    <mutedDictionary>8ab4b240b6398afb6b3ac8e58bf4d65e</mutedDictionary>
+    <mutedDictionary>a578dd1ccc27b279e5cb02d8fa67f9db</mutedDictionary>
+    <mutedDictionary>79c300ca6d91f5981842da1e58a761b2</mutedDictionary>
+    <mutedDictionary>47ab7c220ca9ef1e3d1341a00485bf0a</mutedDictionary>
+    <mutedDictionary>e6300dd58c30d6da6ac40920eca5db44</mutedDictionary>
+    <mutedDictionary>792eedcd3d1a725625554b2275536ac2</mutedDictionary>
+    <mutedDictionary>d4da84771286c63705b5b041c940682d</mutedDictionary>
+    <mutedDictionary>f6e67dc564f8ba846ac4e5eaaf7169be</mutedDictionary>
+    <mutedDictionary>7e3fef945c78aabfbc4bd511e5493da7</mutedDictionary>
+    <mutedDictionary>1c983f8fff4a6f5ebb8dbfe805201471</mutedDictionary>
+    <mutedDictionary>0926a44fcf6b57f827400ed2e775e12f</mutedDictionary>
+    <mutedDictionary>ab638e72c53ff94ac32a40f4582c4db5</mutedDictionary>
+    <mutedDictionary>ba92beb40c740371ced9183550d91104</mutedDictionary>
+    <popupMutedDictionary>d50676c9523fc1a4e7fe5d63ca37c666</popupMutedDictionary>
+    <popupMutedDictionary>1174df72e600d0746f4a6629b4496edc</popupMutedDictionary>
+    <popupMutedDictionary>01d1c3e4bb021884f1135cf76bddc7ba</popupMutedDictionary>
+    <popupMutedDictionary>c4d16b195ed902d8c332833aff63d8a9</popupMutedDictionary>
+    <popupMutedDictionary>2eb73cfc000c23a8e2ba573ab3c8e85b</popupMutedDictionary>
+    <popupMutedDictionary>d90324a060e4cc7179ebf4b9107d20d7</popupMutedDictionary>
+    <popupMutedDictionary>3b6d899a3250c7565990293bcecd11e0</popupMutedDictionary>
+    <popupMutedDictionary>4188a0497e0c2b7eb207c8c081db31a7</popupMutedDictionary>
+    <popupMutedDictionary>4530df7612e00a1b2261a93b56145eaa</popupMutedDictionary>
+    <popupMutedDictionary>81a231c0680552436b5644ce3fed3e3e</popupMutedDictionary>
+    <popupMutedDictionary>7dcbd247efb24d0099912e048f73a3f0</popupMutedDictionary>
+    <popupMutedDictionary>e06308ee0f7ed7a58d8066234bac2431</popupMutedDictionary>
+    <popupMutedDictionary>8f8f170959c20cbb961c24875f886eea</popupMutedDictionary>
+    <popupMutedDictionary>dad664b829e926cd60230e46a550aa91</popupMutedDictionary>
+    <popupMutedDictionary>23d4874e3de011d787ce5c64ab9b2990</popupMutedDictionary>
+    <popupMutedDictionary>8a21cef256b1e68e41655c056d281405</popupMutedDictionary>
+    <popupMutedDictionary>63ced5dafb77d143f47d08c9d5f221c0</popupMutedDictionary>
+    <popupMutedDictionary>90103373730072471aa333862c79bab1</popupMutedDictionary>
+    <popupMutedDictionary>7326cf32e0ec4518862cf4b870a98d56</popupMutedDictionary>
+    <popupMutedDictionary>490240613e3a9d9c8810bc1d903c8602</popupMutedDictionary>
+    <popupMutedDictionary>885fcb322fd8aefcf71bf8f6c4972ccb</popupMutedDictionary>
+    <popupMutedDictionary>0ca8f583834c59d983f01ef4d6bb36ac</popupMutedDictionary>
+    <popupMutedDictionary>92e062607bedf9849047a3255fe71fee</popupMutedDictionary>
+    <popupMutedDictionary>b3bbbc4f240952c1b2d3e530941840f0</popupMutedDictionary>
+    <popupMutedDictionary>8ab4b240b6398afb6b3ac8e58bf4d65e</popupMutedDictionary>
+    <popupMutedDictionary>a578dd1ccc27b279e5cb02d8fa67f9db</popupMutedDictionary>
+    <popupMutedDictionary>79c300ca6d91f5981842da1e58a761b2</popupMutedDictionary>
+    <popupMutedDictionary>47ab7c220ca9ef1e3d1341a00485bf0a</popupMutedDictionary>
+    <popupMutedDictionary>e6300dd58c30d6da6ac40920eca5db44</popupMutedDictionary>
+    <popupMutedDictionary>792eedcd3d1a725625554b2275536ac2</popupMutedDictionary>
+    <popupMutedDictionary>d4da84771286c63705b5b041c940682d</popupMutedDictionary>
+    <popupMutedDictionary>f5023906792a087c58515130d83b6add</popupMutedDictionary>
+    <popupMutedDictionary>7e3fef945c78aabfbc4bd511e5493da7</popupMutedDictionary>
+    <popupMutedDictionary>1c983f8fff4a6f5ebb8dbfe805201471</popupMutedDictionary>
+    <popupMutedDictionary>0926a44fcf6b57f827400ed2e775e12f</popupMutedDictionary>
+    <popupMutedDictionary>ab638e72c53ff94ac32a40f4582c4db5</popupMutedDictionary>
+    <popupMutedDictionary>ba92beb40c740371ced9183550d91104</popupMutedDictionary>
+   </mutedDictionaries>
+  </group>
+  <group icon="ru.png" id="9" name="4 Ru-De" shortcut="Ctrl+4">
+   <dictionary name="de">f6e67dc564f8ba846ac4e5eaaf7169be</dictionary>
+   <dictionary name="Pip Ru">2417d6fc797de42b86bcc33765161d0c</dictionary>
+   <dictionary name="gTTS Ru">484f6c7fd90a1cf458fa1ce1c72ca965</dictionary>
+   <dictionary name="Q">9da2c8db7e2b7eea900a328843d1ca32</dictionary>
+   <dictionary name="dT-d Ru-De">6e138a4f8bc4e35cc818d6cd8364ec88</dictionary>
+   <dictionary name="dT-m Ru-De">fa9fe6ddbde269404008b43569fef63f</dictionary>
+   <dictionary name="dT-g Ru-De">3ad29918443515dc00b14643d31184a0</dictionary>
+   <dictionary name="lV Ru-De">78aeeae11dc9b2a64241f73a3e9060a2</dictionary>
+   <dictionary name="aR Ru-De">237f8ef5a6597f76d81f4eb121a10566</dictionary>
+   <dictionary name="Lingvo 12 (De&lt;>Ru)">bdeac88c439d979437d403519290df9c</dictionary>
+   <dictionary name="(Ru-De) Multitran">638de682946148ea050fe7923e9b9c91</dictionary>
+   <dictionary name="Universal (Ru-Ge)">41a9f2257d5b6b1dd04deaa5e2eff271</dictionary>
+   <dictionary name="Essential (Ru-Ge)">34a352a7117255c21664640d8f953985</dictionary>
+   <dictionary name="Economics (Ru-Ge)">8f9bda5742b863d0f605ab95192b61ba</dictionary>
+   <dictionary name="Law (Ru-Ge)">62ce064c84a3a1b60b95f3bbc6864833</dictionary>
+   <dictionary name="Polytechnical (Ru-Ge)">4bd686e44fb24098b323852de8251467</dictionary>
+   <dictionary name="Auto (Ru-Ge)">41410aac0b60d20574eef40bcda3e333</dictionary>
+   <dictionary name="AutoService (Ru-Ge)">9a6e57564818ba281fa7c609add67956</dictionary>
+   <dictionary name="Food (Ru-Ge)">60ba308d5814631b2afe495de4cd249b</dictionary>
+   <dictionary name="Chemistry (Ru-Ge)">1a916dc24e83cdbda5878a6caf6133fa</dictionary>
+   <dictionary name="Medical (Ru-Ge)">097ba850cbeb9798afc819ffbe8d54a6</dictionary>
+   <dictionary name="PhraseBook (Ru-Ge)">7bbc2003951dc811d4599b8a0a46f7d3</dictionary>
+   <dictionary name="Wiktionary">4188a0497e0c2b7eb207c8c081db31a7</dictionary>
+   <dictionary name="Russian Wiktionary">b09947600ae3902654f8ad4567ae8567</dictionary>
+   <dictionary name="Langenscheidt Standard Wörterbuch Russisch (Rus-Deu)">53856034182536d6da24662c59811ed3</dictionary>
+   <dictionary name="PhraseBookRuDe">76c46da28408094328877f01e4f12958</dictionary>
+   <dictionary name="PhraseBook (Ru-De)">9d586eb0b37ae459a17b115ace43a151</dictionary>
+   <dictionary name="AutoService (Ru-De)">72c7bd32bbc2be116aee891a93525180</dictionary>
+   <mutedDictionaries>
+    <mutedDictionary>78aeeae11dc9b2a64241f73a3e9060a2</mutedDictionary>
+    <mutedDictionary>53856034182536d6da24662c59811ed3</mutedDictionary>
+    <mutedDictionary>b09947600ae3902654f8ad4567ae8567</mutedDictionary>
+    <mutedDictionary>237f8ef5a6597f76d81f4eb121a10566</mutedDictionary>
+    <mutedDictionary>fa9fe6ddbde269404008b43569fef63f</mutedDictionary>
+    <mutedDictionary>484f6c7fd90a1cf458fa1ce1c72ca965</mutedDictionary>
+    <mutedDictionary>2417d6fc797de42b86bcc33765161d0c</mutedDictionary>
+    <mutedDictionary>72c7bd32bbc2be116aee891a93525180</mutedDictionary>
+    <popupMutedDictionary>b09947600ae3902654f8ad4567ae8567</popupMutedDictionary>
+    <popupMutedDictionary>484f6c7fd90a1cf458fa1ce1c72ca965</popupMutedDictionary>
+   </mutedDictionaries>
+  </group>
+  <group icon="de.png" id="4" name="5 De-En" shortcut="Ctrl+5">
+   <dictionary name="de">f6e67dc564f8ba846ac4e5eaaf7169be</dictionary>
+   <dictionary name="Pip De">a4a9ff76c6f9cf763cfda8013822a7ba</dictionary>
+   <dictionary name="gTTS De">d90324a060e4cc7179ebf4b9107d20d7</dictionary>
+   <dictionary name="Q">9da2c8db7e2b7eea900a328843d1ca32</dictionary>
+   <dictionary name="De kW M">8ab4b240b6398afb6b3ac8e58bf4d65e</dictionary>
+   <dictionary name="dT-g De-En">fb15f262552c4bd4f5d6acb70c78a806</dictionary>
+   <dictionary name="aR De-En">23c257e114e732465bbb7d71b525275f</dictionary>
+   <dictionary name="lV De-En">2109ef08b514e400ebda81a2c67fd0a2</dictionary>
+   <dictionary name="Wiktionary">4188a0497e0c2b7eb207c8c081db31a7</dictionary>
+   <dictionary name="Wiktionary">3fd4ebd7237f7b031dfd2cbbdd155987</dictionary>
+   <mutedDictionaries>
+    <mutedDictionary>d90324a060e4cc7179ebf4b9107d20d7</mutedDictionary>
+    <popupMutedDictionary>d90324a060e4cc7179ebf4b9107d20d7</popupMutedDictionary>
+    <popupMutedDictionary>3fd4ebd7237f7b031dfd2cbbdd155987</popupMutedDictionary>
+   </mutedDictionaries>
+  </group>
+  <group icon="us.png" id="10" name="6 En-De" shortcut="Ctrl+6">
+   <dictionary name="en">c26fee1834fe1885d38b9f12d7371c66</dictionary>
+   <dictionary name="Pip En">5bf907bbd3aba8fcb17e12338a11eea1</dictionary>
+   <dictionary name="gTTS En">0622c6c540c4201fa805879c418825ec</dictionary>
+   <dictionary name="Q">9da2c8db7e2b7eea900a328843d1ca32</dictionary>
+   <dictionary name="En kW">2c58fa9b9ca6e98fb30ce6744c9ced10</dictionary>
+   <dictionary name="dT-g En-De">411c606a760b7a6cfab788b7268f600f</dictionary>
+   <dictionary name="aR En-De">ad9edf494e45b8688ed25c6b2840928e</dictionary>
+   <dictionary name="lV En-De">80b1eed4dc029dced92d18682079c0a1</dictionary>
+   <dictionary name="Collins COBUILD Advanced Learner’s English Dictionary (5th ed.)">aec0400cbafec1784ded3515e9da8b20</dictionary>
+   <dictionary name="Collins Cobuild Advanced Learner's English Dictionary 2008  (En-En)">8d922e86863ddfb848b2bc9e964f3f9d</dictionary>
+   <dictionary name="Wiktionary">4188a0497e0c2b7eb207c8c081db31a7</dictionary>
+   <dictionary name="Wiktionary">3fd4ebd7237f7b031dfd2cbbdd155987</dictionary>
+   <mutedDictionaries>
+    <mutedDictionary>0622c6c540c4201fa805879c418825ec</mutedDictionary>
+    <mutedDictionary>ff5b9cbf02bbcff50a44032b60d7c5ca</mutedDictionary>
+    <popupMutedDictionary>4188a0497e0c2b7eb207c8c081db31a7</popupMutedDictionary>
+    <popupMutedDictionary>0622c6c540c4201fa805879c418825ec</popupMutedDictionary>
+   </mutedDictionaries>
+  </group>
+  <group id="13" name="T De">
+   <dictionary name="de">f6e67dc564f8ba846ac4e5eaaf7169be</dictionary>
+   <dictionary name="Pip De">a4a9ff76c6f9cf763cfda8013822a7ba</dictionary>
+   <dictionary name="gTTS De">d90324a060e4cc7179ebf4b9107d20d7</dictionary>
+   <dictionary name="Q">9da2c8db7e2b7eea900a328843d1ca32</dictionary>
+   <dictionary name="De kW M">8ab4b240b6398afb6b3ac8e58bf4d65e</dictionary>
+   <dictionary name="dT-g De-Uk">72d9b051d3d38da1c9068180820f38f9</dictionary>
+   <dictionary name="dT-d De-Ru">2e2e11a21876bbc6637016aca123fa1e</dictionary>
+   <dictionary name="fB En-De-Ru 2">90103373730072471aa333862c79bab1</dictionary>
+   <dictionary name="aR De-Ru">7326cf32e0ec4518862cf4b870a98d56</dictionary>
+   <dictionary name="dT-g De-Ru">9e006176d541e64c93b2c055d5940537</dictionary>
+   <dictionary name="dT-m De-Ru">792eedcd3d1a725625554b2275536ac2</dictionary>
+   <dictionary name="dT-g De-En">fb15f262552c4bd4f5d6acb70c78a806</dictionary>
+   <dictionary name="aR De-En">23c257e114e732465bbb7d71b525275f</dictionary>
+   <dictionary name="lV De-Ru">01d1c3e4bb021884f1135cf76bddc7ba</dictionary>
+   <dictionary name="lV De-Uk">783badb39edba35856d696d3b9fb865c</dictionary>
+   <dictionary name="lV De-En">2109ef08b514e400ebda81a2c67fd0a2</dictionary>
+   <dictionary name="LDaF">a578dd1ccc27b279e5cb02d8fa67f9db</dictionary>
+   <dictionary name="deu-deu_Langenscheidt-e-Woerterbuch-DaF">e06308ee0f7ed7a58d8066234bac2431</dictionary>
+   <dictionary name="Duden">7dcbd247efb24d0099912e048f73a3f0</dictionary>
+   <dictionary name="Wiktionary">4188a0497e0c2b7eb207c8c081db31a7</dictionary>
+   <dictionary name="Wiktionary">3fd4ebd7237f7b031dfd2cbbdd155987</dictionary>
+   <mutedDictionaries>
+    <popupMutedDictionary>9da2c8db7e2b7eea900a328843d1ca32</popupMutedDictionary>
+   </mutedDictionaries>
+  </group>
+  <group icon="ua.png" id="14" name="7 Uk-Ru" shortcut="Ctrl+7">
+   <dictionary name="gTTS Uk">24694a125979d1fb7f5a1acde08616be</dictionary>
+   <dictionary name="Q">9da2c8db7e2b7eea900a328843d1ca32</dictionary>
+   <dictionary name="dT-g Uk-Ru">cb2c34504ce46bfeaa7870102a43dca0</dictionary>
+   <dictionary name="T1 Uk-Ru">0751531aea5912235d5080cec4528cae</dictionary>
+   <dictionary name="lV Uk-Ru">ae12c8925bbdbad5677a513cecbd0e33</dictionary>
+   <dictionary name="Ukrainian Wiktionary">6fc02a2d4851ba12f66bc5a3d73fdd96</dictionary>
+   <mutedDictionaries/>
+  </group>
+  <group icon="ru.png" id="15" name="8 Ru-Uk" shortcut="Ctrl+8">
+   <dictionary name="gTTS Ru">484f6c7fd90a1cf458fa1ce1c72ca965</dictionary>
+   <dictionary name="Q">9da2c8db7e2b7eea900a328843d1ca32</dictionary>
+   <dictionary name="dT-g Ru-Uk">d1bcef64d3d7ad0747c38b0c48388c9a</dictionary>
+   <dictionary name="lV Ru-Uk">db85f013aaf1e27d19ae784eba80bf41</dictionary>
+   <dictionary name="Russian Wiktionary">b09947600ae3902654f8ad4567ae8567</dictionary>
+   <mutedDictionaries/>
+  </group>
+  <group id="8" name="TTS">
+   <dictionary name="gTTS De">d90324a060e4cc7179ebf4b9107d20d7</dictionary>
+   <dictionary name="gTTS En">0622c6c540c4201fa805879c418825ec</dictionary>
+   <dictionary name="gTTS Ru">484f6c7fd90a1cf458fa1ce1c72ca965</dictionary>
+   <dictionary name="Q">9da2c8db7e2b7eea900a328843d1ca32</dictionary>
+   <mutedDictionaries/>
+  </group>
+  <group id="1" name="W">
+   <dictionary name="gTTS En">0622c6c540c4201fa805879c418825ec</dictionary>
+   <dictionary name="gTTS De">d90324a060e4cc7179ebf4b9107d20d7</dictionary>
+   <dictionary name="gTTS Ru">484f6c7fd90a1cf458fa1ce1c72ca965</dictionary>
+   <dictionary name="Q">9da2c8db7e2b7eea900a328843d1ca32</dictionary>
+   <dictionary name="English Wiktionary">affcf9678e7bfe701c9b071f97eccba3</dictionary>
+   <dictionary name="Russian Wiktionary">b09947600ae3902654f8ad4567ae8567</dictionary>
+   <dictionary name="German Wiktionary">21c64bca5ec10ba17ff19f3066bc962a</dictionary>
+   <dictionary name="Wiktionary">4188a0497e0c2b7eb207c8c081db31a7</dictionary>
+   <dictionary name="Wiktionary">3fd4ebd7237f7b031dfd2cbbdd155987</dictionary>
+   <mutedDictionaries>
+    <mutedDictionary>affcf9678e7bfe701c9b071f97eccba3</mutedDictionary>
+    <mutedDictionary>4188a0497e0c2b7eb207c8c081db31a7</mutedDictionary>
+    <mutedDictionary>b09947600ae3902654f8ad4567ae8567</mutedDictionary>
+    <mutedDictionary>21c64bca5ec10ba17ff19f3066bc962a</mutedDictionary>
+   </mutedDictionaries>
+  </group>
+ </groups>
+ <hunspell dictionariesPath="U:/20240125091909 Dictionary/20240125102355 Morphology/Common">
+  <enabled>de_DE</enabled>
+ </hunspell>
+ <transliteration>
+  <enableRussianTransliteration>0</enableRussianTransliteration>
+  <enableGermanTransliteration>0</enableGermanTransliteration>
+  <enableGreekTransliteration>0</enableGreekTransliteration>
+  <enableBelarusianTransliteration>0</enableBelarusianTransliteration>
+  <chinese>
+   <enable>0</enable>
+   <enableSCToTWConversion>1</enableSCToTWConversion>
+   <enableSCToHKConversion>1</enableSCToHKConversion>
+   <enableTCToSCConversion>1</enableTCToSCConversion>
+  </chinese>
+  <romaji>
+   <enable>0</enable>
+   <enableHiragana>1</enableHiragana>
+   <enableKatakana>1</enableKatakana>
+  </romaji>
+  <customtrans>
+   <enable>0</enable>
+   <context></context>
+  </customtrans>
+ </transliteration>
+ <lingua>
+  <enable>0</enable>
+  <languageCodes>deu</languageCodes>
+ </lingua>
+ <forvo>
+  <enable>0</enable>
+  <apiKey></apiKey>
+  <languageCodes></languageCodes>
+ </forvo>
+ <mediawikis>
+  <mediawiki enabled="0" icon="" id="ae6f89aac7151829681b85f035d54e48" lang="" name="English Wikipedia" url="https://en.wikipedia.org/w"/>
+  <mediawiki enabled="1" icon="" id="affcf9678e7bfe701c9b071f97eccba3" lang="" name="English Wiktionary" url="https://en.wiktionary.org/w"/>
+  <mediawiki enabled="0" icon="" id="8e0c1c2b6821dab8bdba8eb869ca7176" lang="" name="Russian Wikipedia" url="https://ru.wikipedia.org/w"/>
+  <mediawiki enabled="1" icon="" id="b09947600ae3902654f8ad4567ae8567" lang="" name="Russian Wiktionary" url="https://ru.wiktionary.org/w"/>
+  <mediawiki enabled="0" icon="" id="a8a66331a1242ca2aeb0b4aed361c41d" lang="" name="German Wikipedia" url="https://de.wikipedia.org/w"/>
+  <mediawiki enabled="1" icon="" id="21c64bca5ec10ba17ff19f3066bc962a" lang="" name="German Wiktionary" url="https://de.wiktionary.org/w"/>
+  <mediawiki enabled="0" icon="" id="96957cb2ad73a20c7a1d561fc83c253a" lang="" name="Portuguese Wikipedia" url="https://pt.wikipedia.org/w"/>
+  <mediawiki enabled="0" icon="" id="ed4c3929196afdd93cc08b9a903aad6a" lang="" name="Portuguese Wiktionary" url="https://pt.wiktionary.org/w"/>
+  <mediawiki enabled="0" icon="" id="f3b4ec8531e52ddf5b10d21e4577a7a2" lang="" name="Greek Wikipedia" url="https://el.wikipedia.org/w"/>
+  <mediawiki enabled="0" icon="" id="5d45232075d06e002dea72fe3e137da1" lang="" name="Greek Wiktionary" url="https://el.wiktionary.org/w"/>
+  <mediawiki enabled="1" icon="" id="6fc02a2d4851ba12f66bc5a3d73fdd96" lang="" name="Ukrainian Wiktionary" url="https://uk.wiktionary.org/w"/>
+ </mediawikis>
+ <websites>
+  <website enabled="0" icon="" id="b88cb2898e634c6638df618528284c2d" inside_iframe="1" name="Google En-En (Oxford)" url="https://www.google.com/search?q=define:%GDWORD%&amp;hl=en"/>
+  <website enabled="0" icon="" id="f376365a0de651fd7505e7e5e683aa45" inside_iframe="1" name="Urban Dictionary" url="https://www.urbandictionary.com/define.php?term=%GDWORD%"/>
+  <website enabled="0" icon="" id="324ca0306187df7511b26d3847f4b07c" inside_iframe="1" name="Multitran (En-Ru)" url="https://www.multitran.com/m.exe?s=%GDWORD%&amp;l1=1&amp;l2=2"/>
+  <website enabled="0" icon="" id="379a0ce02a34747d642cb0d7de1b2882" inside_iframe="1" name="Merriam-Webster (En)" url="https://www.merriam-webster.com/dictionary/%GDWORD%"/>
+  <website enabled="0" icon="" id="64cc2ad8fd4fa5137f3d5f6dcb7b9676" inside_iframe="1" name="Leo Ru-De" url="https://dict.leo.org/russisch-deutsch/%GDWORD%"/>
+  <website enabled="0" icon="" id="5ef335566ff17ecb38ab9ba8ce22e035" inside_iframe="1" name="Verb De" url="https://www.verbformen.de/konjugation/%GDWORD%.htm"/>
+  <website enabled="0" icon="" id="213db2b61e8bb770246694c8f45c7c6d" inside_iframe="1" name="Ya De-Ru" url="https://translate.yandex.com/?source_lang=de&amp;target_lang=ru&amp;text=%GDWORD%"/>
+  <website enabled="0" icon="" id="9c9b7f53b406d8dd687a582a11ca8add" inside_iframe="1" name="RC De-Ru" url="https://context.reverso.net/%C3%BCbersetzung/deutsch-russisch/%GDWORD%"/>
+  <website enabled="0" icon="" id="7435eeaf17bcf25440649464ca88b4ff" inside_iframe="1" name="DWDS De" url="https://www.dwds.de/wb/%GDWORD%"/>
+  <website enabled="0" icon="" id="71a68e5e24571a7cbe3a344dc9e39adc" inside_iframe="1" name="Deep De-Ru" url="https://www.deepl.com/translator#de/ru/%GDWORD%"/>
+  <website enabled="0" icon="" id="f4a493f2e8e277ba8515b4c3fca28452" inside_iframe="1" name="PONS De-Ru" url="https://de.pons.com/%C3%BCbersetzung/deutsch-russisch/%GDWORD%"/>
+  <website enabled="0" icon="" id="cb71f0b516a0f30f6fba0ea23ff91c93" inside_iframe="1" name="Collins En" url="https://www.collinsdictionary.com/dictionary/english/%GDWORD%"/>
+  <website enabled="0" icon="" id="d7f3d64d33a6e76a3fce989f2bee30ba" inside_iframe="1" name="OLD En" url="https://www.oxfordlearnersdictionaries.com/definition/english/%GDWORD%"/>
+  <website enabled="0" icon="" id="03548bb52ef29bab9bd08c7d8b3f3b83" inside_iframe="1" name="CLD" url="https://dictionary.cambridge.org/dictionary/learner-english/%GDWORD%"/>
+  <website enabled="0" icon="" id="a840d6134eaf43f776e8f177d324d6c4" inside_iframe="1" name="MW T En" url="https://www.merriam-webster.com/thesaurus/%GDWORD%"/>
+  <website enabled="0" icon="" id="09b7efad716da43fe6fe6e937cab9c54" inside_iframe="1" name="FT En" url="https://www.freethesaurus.com/%GDWORD%"/>
+  <website enabled="0" icon="" id="7a0ce5b80ef2f890c6eed0565c1d9619" inside_iframe="1" name="T E" url="https://www.thesaurus.com/browse/%GDWORD%"/>
+  <website enabled="0" icon="" id="48b08553574319896a75dfd6afb080f8" inside_iframe="1" name="WH A En" url="https://www.wordhippo.com/what-is/the-opposite-of/%GDWORD%.html"/>
+  <website enabled="0" icon="" id="1447638757cabfbf8ca92a4d7a35dae5" inside_iframe="1" name="OT De" url="https://www.openthesaurus.de/synonyme/%GDWORD%"/>
+  <website enabled="0" icon="" id="3c9bc58c3e245710a5c21a97f1463ae4" inside_iframe="1" name="DWDS De" url="https://www.dwds.de/wb/%GDWORD%#wp-1"/>
+  <website enabled="0" icon="" id="d9450f7769f15b422c5fb584f3a2fefd" inside_iframe="1" name="WH S En" url="https://www.wordhippo.com/what-is/another-word-for/%GDWORD%.html"/>
+  <website enabled="0" icon="" id="e698b387196c6c614d3c2bd27f0ee1aa" inside_iframe="1" name="IMG G De" url="https://www.google.com/search?q=%GDWORD%&amp;sca_esv=d45440ba098adee0&amp;sca_upv=1&amp;tbm=isch&amp;source=hp&amp;biw=1280&amp;bih=551&amp;ei=42jkZYuyDeX97_UP4eKGKA&amp;iflsig=ANes7DEAAAAAZeR285QzljTf_e_5MyE_GlOjbOwO36p7&amp;ved=0ahUKEwjLr9SLiNiEAxXl_rsIHWGxAQUQ4dUDCAc&amp;uact=5&amp;oq=test&amp;gs_lp=EgNpbWciBHRlc3QyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESO8RUP4BWI0EcAB4AJABAJgBdaABrgOqAQMxLjO4AQPIAQD4AQGKAgtnd3Mtd2l6LWltZ5gCBKAC0QOoAgDCAggQABiABBixA5gDApIHAzAuNA&amp;sclient=img&#xa;"/>
+  <website enabled="0" icon="" id="766c61f50382e07b9dc9ee320b875d9d" inside_iframe="1" name="Acad En-Ru" url="https://translate.academic.ru/%GDWORD%/en/ru/"/>
+  <website enabled="0" icon="" id="6da2c2c2d2604010266f4b738b48c18c" inside_iframe="1" name="Acad De-Ru" url="https://translate.academic.ru/%GDWORD%/de/ru/"/>
+  <website enabled="0" icon="" id="e4f19ef9fc20dba2d8c988e55c9b11fb" inside_iframe="1" name="dict.cc De-Ru" url="https://m.dict.cc/deutsch-russisch/?s=%GDWORD%"/>
+  <website enabled="0" icon="" id="d2bd0e3003dcf04f8bc050dbaa705d54" inside_iframe="1" name="dict.cc En-Ru" url="https://m.dict.cc/english-russian/?s=%GDWORD%"/>
+  <website enabled="0" icon="" id="eae625a636f1b765e9b0367a3e947e5a" inside_iframe="1" name="DeW De" url="https://de.wiktionary.org/wiki/%GDWORD%#%GDWORD%_(Deutsch)"/>
+  <website enabled="0" icon="" id="4132e279f3fc0ff28a79850a022f7f94" inside_iframe="1" name="EnW En" url="https://en.wiktionary.org/wiki/[LUTE]#English"/>
+  <website enabled="0" icon="" id="8c2480f6387b2dfe890926b8b09c2895" inside_iframe="1" name="EnW De" url="https://en.wiktionary.org/wiki/[LUTE]#German"/>
+  <website enabled="0" icon="" id="bde228c4a491b4c6fc38839c8f5f77e6" inside_iframe="1" name="RuW De" url="https://ru.wiktionary.org/wiki/[LUTE]#%D0%9D%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9"/>
+  <website enabled="0" icon="" id="e8228d880e58b0e9252624e477141c63" inside_iframe="1" name="RuW En" url="https://ru.wiktionary.org/wiki/[LUTE]#%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9"/>
+  <website enabled="0" icon="" id="f01517daa5af3bba291b8022baa33e08" inside_iframe="1" name="De Filmot" url="https://filmot.com/search/Einzelnen/1?channelID=UCeVQK7ZPXDOAyjY0NYqmX-Q%2CUCCd-7oX1Lmoe0JNBkk3yrZg&amp;detectedLang=any&amp;gridView=1&amp;"/>
+ </websites>
+ <dictservers>
+  <server databases="wn" enabled="0" icon="" id="6eb6f7a1df225e1cfdcd4cf8e9e4771b" name="dict.org" strategies="" url="dict://dict.org"/>
+  <server databases="" enabled="0" icon="" id="b1ce49d5bba1df2e94c09741006bd583" name="dict.cc" strategies="" url="dict://dict.cc"/>
+ </dictservers>
+ <programs>
+  <program commandLine="C:\Python\Python312\python.exe U:\voothi\20231001193911-tts\out.py &quot;%GDWORD%&quot;" enabled="1" icon="" id="9da2c8db7e2b7eea900a328843d1ca32" name="Q" type="1"/>
+  <program commandLine="U:\voothi\20231001193911-tts\venv\Scripts\python.exe &quot;U:\voothi\20231001193911-tts\gTTS.py&quot; &quot;en&quot; &quot;%GDWORD%&quot;" enabled="1" icon="" id="0622c6c540c4201fa805879c418825ec" name="gTTS En" type="0"/>
+  <program commandLine="U:\voothi\20231001193911-tts\venv\Scripts\python.exe &quot;U:\voothi\20231001193911-tts\gTTS.py&quot; &quot;de&quot; &quot;%GDWORD%&quot;" enabled="1" icon="" id="d90324a060e4cc7179ebf4b9107d20d7" name="gTTS De" type="0"/>
+  <program commandLine="U:\voothi\20231001193911-tts\venv\Scripts\python.exe &quot;U:\voothi\20231001193911-tts\gTTS.py&quot; &quot;ru&quot; &quot;%GDWORD%&quot;" enabled="1" icon="" id="484f6c7fd90a1cf458fa1ce1c72ca965" name="gTTS Ru" type="0"/>
+  <program commandLine="U:\voothi\20231001193911-tts\venv\Scripts\python.exe &quot;U:\voothi\20231001193911-tts\gTTS.py&quot; &quot;uk&quot; &quot;%GDWORD%&quot;" enabled="1" icon="" id="24694a125979d1fb7f5a1acde08616be" name="gTTS Uk" type="0"/>
+  <program commandLine="U:\voothi\20241121100211-argotranslate\venv\Scripts\python.exe U:\voothi\20241121100211-argotranslate\venv\Scripts\argos-translate -f en -t ru &quot;%GDWORD%&quot;" enabled="1" icon="" id="a16dcb3a27ecd83b944d86376f9f71cc" name="aR En-Ru" type="1"/>
+  <program commandLine="U:\voothi\20241121100211-argotranslate\venv\Scripts\python.exe U:\voothi\20241121100211-argotranslate\venv\Scripts\argos-translate -f en -t de &quot;%GDWORD%&quot;" enabled="1" icon="" id="ad9edf494e45b8688ed25c6b2840928e" name="aR En-De" type="1"/>
+  <program commandLine="U:\voothi\20241121100211-argotranslate\venv\Scripts\python.exe U:\voothi\20241121100211-argotranslate\venv\Scripts\argos-translate -f de -t ru &quot;%GDWORD%&quot;" enabled="1" icon="" id="7326cf32e0ec4518862cf4b870a98d56" name="aR De-Ru" type="1"/>
+  <program commandLine="U:\voothi\20241121100211-argotranslate\venv\Scripts\python.exe U:\voothi\20241121100211-argotranslate\venv\Scripts\argos-translate -f de -t en &quot;%GDWORD%&quot;" enabled="1" icon="" id="23c257e114e732465bbb7d71b525275f" name="aR De-En" type="1"/>
+  <program commandLine="U:\voothi\20241121100211-argotranslate\venv\Scripts\python.exe U:\voothi\20241121100211-argotranslate\venv\Scripts\argos-translate -f ru -t en &quot;%GDWORD%&quot;" enabled="1" icon="" id="11745c8ac9564a93d2e8ddf3118f782a" name="aR Ru-En" type="1"/>
+  <program commandLine="U:\voothi\20241121100211-argotranslate\venv\Scripts\python.exe U:\voothi\20241121100211-argotranslate\venv\Scripts\argos-translate -f ru -t de &quot;%GDWORD%&quot;" enabled="1" icon="" id="237f8ef5a6597f76d81f4eb121a10566" name="aR Ru-De" type="1"/>
+  <program commandLine="U:\voothi\20241122093311-deep-translator\venv\Scripts\python.exe U:\voothi\20241122093311-deep-translator\translate_google.py --text &quot;%GDWORD%&quot; --source en --target ru" enabled="1" icon="" id="ca0a918ab349225644b171a4caf460f5" name="dT-g En-Ru" type="1"/>
+  <program commandLine="U:\voothi\20241122093311-deep-translator\venv\Scripts\python.exe U:\voothi\20241122093311-deep-translator\translate_google.py --text &quot;%GDWORD%&quot; --source en --target de" enabled="1" icon="" id="411c606a760b7a6cfab788b7268f600f" name="dT-g En-De" type="1"/>
+  <program commandLine="U:\voothi\20241122093311-deep-translator\venv\Scripts\python.exe U:\voothi\20241122093311-deep-translator\translate_google.py --text &quot;%GDWORD%&quot; --source en --target uk" enabled="1" icon="" id="d63d0024ad838078be34b5175b17d7dd" name="dT-g En-Uk" type="1"/>
+  <program commandLine="U:\voothi\20241122093311-deep-translator\venv\Scripts\python.exe U:\voothi\20241122093311-deep-translator\translate_google.py --text &quot;%GDWORD%&quot; --source de --target ru" enabled="1" icon="" id="9e006176d541e64c93b2c055d5940537" name="dT-g De-Ru" type="1"/>
+  <program commandLine="U:\voothi\20241122093311-deep-translator\venv\Scripts\python.exe U:\voothi\20241122093311-deep-translator\translate_google.py --text &quot;%GDWORD%&quot; --source de --target en" enabled="1" icon="" id="fb15f262552c4bd4f5d6acb70c78a806" name="dT-g De-En" type="1"/>
+  <program commandLine="U:\voothi\20241122093311-deep-translator\venv\Scripts\python.exe U:\voothi\20241122093311-deep-translator\translate_google.py --text &quot;%GDWORD%&quot; --source de --target uk" enabled="1" icon="" id="72d9b051d3d38da1c9068180820f38f9" name="dT-g De-Uk" type="1"/>
+  <program commandLine="U:\voothi\20241122093311-deep-translator\venv\Scripts\python.exe U:\voothi\20241122093311-deep-translator\translate_google.py --text &quot;%GDWORD%&quot; --source ru --target en" enabled="1" icon="" id="ae6fd723e9ac1040a28215e8bd522079" name="dT-g Ru-En" type="1"/>
+  <program commandLine="U:\voothi\20241122093311-deep-translator\venv\Scripts\python.exe U:\voothi\20241122093311-deep-translator\translate_google.py --text &quot;%GDWORD%&quot; --source ru --target de" enabled="1" icon="" id="3ad29918443515dc00b14643d31184a0" name="dT-g Ru-De" type="1"/>
+  <program commandLine="U:\voothi\20241122093311-deep-translator\venv\Scripts\python.exe U:\voothi\20241122093311-deep-translator\translate_google.py --text &quot;%GDWORD%&quot; --source ru --target uk" enabled="1" icon="" id="d1bcef64d3d7ad0747c38b0c48388c9a" name="dT-g Ru-Uk" type="1"/>
+  <program commandLine="U:\voothi\20241122093311-deep-translator\venv\Scripts\python.exe U:\voothi\20241122093311-deep-translator\translate_google.py --text &quot;%GDWORD%&quot; --source uk --target ru" enabled="1" icon="" id="cb2c34504ce46bfeaa7870102a43dca0" name="dT-g Uk-Ru" type="1"/>
+  <program commandLine="U:\voothi\20241122093311-deep-translator\venv\Scripts\python.exe U:\voothi\20241122093311-deep-translator\translate_deepl.py --text &quot;%GDWORD%&quot; --source en --target ru --deepl-api-key &quot;YOUR_DEEPL_API_KEY&quot;" enabled="1" icon="" id="55adc197c0dd34c2d84623beb56ddd9e" name="dT-d En-Ru" type="1"/>
+  <program commandLine="U:\voothi\20241122093311-deep-translator\venv\Scripts\python.exe U:\voothi\20241122093311-deep-translator\translate_deepl.py --text &quot;%GDWORD%&quot; --source de --target ru --deepl-api-key &quot;YOUR_DEEPL_API_KEY&quot;" enabled="1" icon="" id="2e2e11a21876bbc6637016aca123fa1e" name="dT-d De-Ru" type="1"/>
+  <program commandLine="U:\voothi\20241122093311-deep-translator\venv\Scripts\python.exe U:\voothi\20241122093311-deep-translator\translate_deepl.py --text &quot;%GDWORD%&quot; --source ru --target en --deepl-api-key &quot;YOUR_DEEPL_API_KEY&quot;" enabled="1" icon="" id="67322d091ab29620b8f92b627cd45559" name="dT-d Ru-En" type="1"/>
+  <program commandLine="U:\voothi\20241122093311-deep-translator\venv\Scripts\python.exe U:\voothi\20241122093311-deep-translator\translate_deepl.py --text &quot;%GDWORD%&quot; --source ru --target de --deepl-api-key &quot;YOUR_DEEPL_API_KEY&quot;" enabled="1" icon="" id="6e138a4f8bc4e35cc818d6cd8364ec88" name="dT-d Ru-De" type="1"/>
+  <program commandLine="U:\voothi\20241122093311-deep-translator\venv\Scripts\python.exe U:\voothi\20241122093311-deep-translator\translate_mymemory.py --text &quot;%GDWORD%&quot; --source english --target russian" enabled="1" icon="" id="c769eac8c7864ae4021a27d4de065a3d" name="dT-m En-Ru" type="1"/>
+  <program commandLine="U:\voothi\20241122093311-deep-translator\venv\Scripts\python.exe U:\voothi\20241122093311-deep-translator\translate_mymemory.py --text &quot;%GDWORD%&quot; --source german --target russian" enabled="1" icon="" id="792eedcd3d1a725625554b2275536ac2" name="dT-m De-Ru" type="1"/>
+  <program commandLine="U:\voothi\20241122093311-deep-translator\venv\Scripts\python.exe U:\voothi\20241122093311-deep-translator\translate_mymemory.py --text &quot;%GDWORD%&quot; --source russian --target english" enabled="1" icon="" id="64c39cfab8826fc98a9dbf3cf6f61e3d" name="dT-m Ru-En" type="1"/>
+  <program commandLine="U:\voothi\20241122093311-deep-translator\venv\Scripts\python.exe U:\voothi\20241122093311-deep-translator\translate_mymemory.py --text &quot;%GDWORD%&quot; --source russian --target german" enabled="1" icon="" id="fa9fe6ddbde269404008b43569fef63f" name="dT-m Ru-De" type="1"/>
+  <program commandLine="C:/Python/Python312/python.exe U:/voothi/20241206010110-piper-tts/piper_tts.py --lang en --text &quot;%GDWORD%&quot;" enabled="1" icon="" id="5bf907bbd3aba8fcb17e12338a11eea1" name="Pip En" type="0"/>
+  <program commandLine="C:/Python/Python312/python.exe U:/voothi/20241206010110-piper-tts/piper_tts.py --lang de --speaker 0 --text &quot;%GDWORD%&quot;" enabled="1" icon="" id="a4a9ff76c6f9cf763cfda8013822a7ba" name="Pip De" type="0"/>
+  <program commandLine="C:/Python/Python312/python.exe U:/voothi/20241206010110-piper-tts/piper_tts.py --lang ru --text &quot;%GDWORD%&quot;" enabled="1" icon="" id="2417d6fc797de42b86bcc33765161d0c" name="Pip Ru" type="0"/>
+  <program commandLine="C:\Python\Python312\python.exe U:\voothi\20250214181911-lingva-translate-cli\translate_lingva.py --text &quot;%GDWORD%&quot; --source &quot;en&quot; --target &quot;ru&quot; --server &quot;https://lingva.ml&quot;" enabled="1" icon="" id="d5542be2a5f8c46ae8dc194a6cde8cef" name="lV En-Ru" type="1"/>
+  <program commandLine="C:\Python\Python312\python.exe U:\voothi\20250214181911-lingva-translate-cli\translate_lingva.py --text &quot;%GDWORD%&quot; --source &quot;en&quot; --target &quot;uk&quot; --server &quot;https://lingva.ml&quot;" enabled="1" icon="" id="4f42e7acbcef5f0b7777cf570baabf18" name="lV En-Uk" type="1"/>
+  <program commandLine="C:\Python\Python312\python.exe U:\voothi\20250214181911-lingva-translate-cli\translate_lingva.py --text &quot;%GDWORD%&quot; --source &quot;en&quot; --target &quot;de&quot; --server &quot;https://lingva.ml&quot;" enabled="1" icon="" id="80b1eed4dc029dced92d18682079c0a1" name="lV En-De" type="1"/>
+  <program commandLine="C:\Python\Python312\python.exe U:\voothi\20250214181911-lingva-translate-cli\translate_lingva.py --text &quot;%GDWORD%&quot; --source &quot;de&quot; --target &quot;ru&quot; --server &quot;https://lingva.ml&quot;" enabled="1" icon="" id="01d1c3e4bb021884f1135cf76bddc7ba" name="lV De-Ru" type="1"/>
+  <program commandLine="C:\Python\Python312\python.exe U:\voothi\20250214181911-lingva-translate-cli\translate_lingva.py --text &quot;%GDWORD%&quot; --source &quot;de&quot; --target &quot;uk&quot; --server &quot;https://lingva.ml&quot;" enabled="1" icon="" id="783badb39edba35856d696d3b9fb865c" name="lV De-Uk" type="1"/>
+  <program commandLine="C:\Python\Python312\python.exe U:\voothi\20250214181911-lingva-translate-cli\translate_lingva.py --text &quot;%GDWORD%&quot; --source &quot;de&quot; --target &quot;en&quot; --server &quot;https://lingva.ml&quot;" enabled="1" icon="" id="2109ef08b514e400ebda81a2c67fd0a2" name="lV De-En" type="1"/>
+  <program commandLine="C:\Python\Python312\python.exe U:\voothi\20250214181911-lingva-translate-cli\translate_lingva.py --text &quot;%GDWORD%&quot; --source &quot;ru&quot; --target &quot;uk&quot; --server &quot;https://lingva.ml&quot;" enabled="1" icon="" id="db85f013aaf1e27d19ae784eba80bf41" name="lV Ru-Uk" type="1"/>
+  <program commandLine="C:\Python\Python312\python.exe U:\voothi\20250214181911-lingva-translate-cli\translate_lingva.py --text &quot;%GDWORD%&quot; --source &quot;ru&quot; --target &quot;en&quot; --server &quot;https://lingva.ml&quot;" enabled="1" icon="" id="3d772c2aaafff3567a57b89dcc88ee8b" name="lV Ru-En" type="1"/>
+  <program commandLine="C:\Python\Python312\python.exe U:\voothi\20250214181911-lingva-translate-cli\translate_lingva.py --text &quot;%GDWORD%&quot; --source &quot;ru&quot; --target &quot;de&quot; --server &quot;https://lingva.ml&quot;" enabled="1" icon="" id="78aeeae11dc9b2a64241f73a3e9060a2" name="lV Ru-De" type="1"/>
+  <program commandLine="C:\Python\Python312\python.exe U:\voothi\20250214181911-lingva-translate-cli\translate_lingva.py --text &quot;%GDWORD%&quot; --source &quot;uk&quot; --target &quot;ru&quot; --server &quot;https://lingva.ml&quot;" enabled="1" icon="" id="ae12c8925bbdbad5677a513cecbd0e33" name="lV Uk-Ru" type="1"/>
+  <program commandLine="C:\Python\Python312\python.exe U:\voothi\20250214181911-lingva-translate-cli\translate_lingva.py --text &quot;%GDWORD%&quot; --source &quot;uk&quot; --target &quot;en&quot; --server &quot;https://lingva.ml&quot;" enabled="1" icon="" id="31b905e5405fc06311f68becba1cd4a5" name="lV Uk-En" type="1"/>
+  <program commandLine="C:\Python\Python312\python.exe U:\voothi\20250214181911-lingva-translate-cli\translate_lingva.py --text &quot;%GDWORD%&quot; --source &quot;uk&quot; --target &quot;de&quot; --server &quot;https://lingva.ml&quot;" enabled="1" icon="" id="3147a990bfe83cd7cd03b4497ab579e4" name="lV Uk-De" type="1"/>
+  <program commandLine="C:\Python\Python312\python.exe U:\voothi\20240408222910-goldendict-anki-search\anki-search.py --query &quot;%GDWORD%&quot; --search-type word" enabled="1" icon="" id="885fcb322fd8aefcf71bf8f6c4972ccb" name="Anki W" type="1"/>
+  <program commandLine="C:\Python\Python312\python.exe U:\voothi\20240408222910-goldendict-anki-search\anki-search.py --query &quot;%GDWORD%&quot; --search-type sentence" enabled="1" icon="" id="0926a44fcf6b57f827400ed2e775e12f" name="Anki S" type="1"/>
+  <program commandLine="C:\Tools\fabric\fabric-windows-amd64.exe --model=google/gemini-2.0-flash-lite-001 --pattern v_translate_2" enabled="1" icon="" id="90103373730072471aa333862c79bab1" name="fB En-De-Ru 2" type="2"/>
+  <program commandLine="C:\Tools\fabric\fabric-windows-amd64.exe --model=google/gemini-2.0-flash-lite-001 --pattern v_de_question_hard" enabled="1" icon="" id="e6300dd58c30d6da6ac40920eca5db44" name="fB FH De 2" type="2"/>
+  <program commandLine="C:\Tools\fabric\fabric-windows-amd64.exe --model=google/gemini-2.0-flash-lite-001 --pattern v_de_gramatik_2" enabled="1" icon="" id="8a21cef256b1e68e41655c056d281405" name="fB GR De 2" type="1"/>
+  <program commandLine="C:\Tools\fabric\fabric-windows-amd64.exe --model=google/gemini-2.0-flash-lite-001 --pattern v_de_wuk_2" enabled="1" icon="" id="490240613e3a9d9c8810bc1d903c8602" name="fB WUK De 2" type="1"/>
+  <program commandLine="&quot;C:\Python\Python312\python.exe&quot; &quot;U:\voothi\20250312161345-ftca\launcher.py&quot; &quot;%GDWORD%&quot;" enabled="1" icon="" id="1174df72e600d0746f4a6629b4496edc" name="ftca" type="0"/>
+  <program commandLine="&quot;U:/voothi/20250825231214-spacy-env/Scripts/python.exe&quot;&#xa;&quot;U:/voothi/20241223170748-kardenwort/src/kardenwort/core/kardenwort.py&quot;&#xa;--type &quot;word&quot;&#xa;--language &quot;en&quot;&#xa;--text &quot;%GDWORD%&quot;&#xa;--lemma-index-file &quot;U:/voothi/20241223170748-kardenwort/data/en/en-news-2023-1m-words.csv&quot;&#xa;--lemma-override-file &quot;U:/voothi/20241223170748-kardenwort/data/en/lemma_override_en.tsv&quot;&#xa;--sentence-context-size &quot;0&quot;&#xa;--stdout-format &quot;html&quot;" enabled="1" icon="" id="2c58fa9b9ca6e98fb30ce6744c9ced10" name="En kW" type="2"/>
+  <program commandLine="&quot;U:/voothi/20250825231214-spacy-env/Scripts/python.exe&quot;&#xa;&quot;U:/voothi/20241223170748-kardenwort/src/kardenwort/core/kardenwort.py&quot;&#xa;--type &quot;word&quot;&#xa;--language &quot;de&quot;&#xa;--text &quot;%GDWORD%&quot;&#xa;--lemma-index-file &quot;U:/voothi/20241223170748-kardenwort/data/de/deu-mixed-typical-2011-1m-words.csv&quot;&#xa;--lemma-override-file &quot;U:/voothi/20241223170748-kardenwort/data/de/lemma_override_de.tsv&quot;&#xa;--de-dictionary-file &quot;U:/voothi/20241223170748-kardenwort/data/de/german.dic&quot;&#xa;--sentence-context-size &quot;0&quot;&#xa;--stdout-format &quot;html&quot;&#xa;--de-fix-genitive" enabled="1" icon="" id="681c36d2fb844c4ba12d58bec8e8304e" name="De kW S" type="2"/>
+  <program commandLine="&quot;U:/voothi\20250825231214-spacy-env/Scripts/python.exe&quot;&#xa;&quot;U:/voothi/20241223170748-kardenwort/src/kardenwort/core/kardenwort.py&quot;&#xa;--type &quot;word&quot;&#xa;--language &quot;de&quot;&#xa;--text &quot;%GDWORD%&quot;&#xa;--lemma-index-file &quot;U:/voothi/20241223170748-kardenwort/data/de/deu-mixed-typical-2011-1m-words.csv&quot;&#xa;--lemma-override-file &quot;U:/voothi/20241223170748-kardenwort/data/de/lemma_override_de.tsv&quot;&#xa;--de-dictionary-file &quot;U:/voothi/20241223170748-kardenwort/data/de/german.dic&quot;&#xa;--sentence-context-size &quot;0&quot;&#xa;--stdout-format &quot;html&quot;&#xa;--de-fix-genitive&#xa;--de-gcs&#xa;--de-gcs-pos-tags &quot;NOUN PROPN ADV ADJ&quot;&#xa;--de-gcs-split-mode &quot;combined&quot;&#xa;--de-gcs-preserve-compound-word&#xa;--de-gcs-skip-merge-fractions" enabled="1" icon="" id="8ab4b240b6398afb6b3ac8e58bf4d65e" name="De kW M" type="2"/>
+  <program commandLine="&quot;U:/voothi/20250825231214-spacy-env/Scripts/python.exe&quot;&#xa;&quot;U:/voothi/20241223170748-kardenwort/src/kardenwort/core/kardenwort.py&quot;&#xa;--type &quot;word&quot;&#xa;--language &quot;de&quot;&#xa;--text &quot;%GDWORD%&quot;&#xa;--lemma-index-file &quot;U:/voothi/20241223170748-kardenwort/data/de/deu-mixed-typical-2011-1m-words.csv&quot;&#xa;--lemma-override-file &quot;U:/voothi/20241223170748-kardenwort/data/de/lemma_override_de.tsv&quot;&#xa;--de-dictionary-file &quot;U:/voothi/20241223170748-kardenwort/data/de/german.dic&quot;&#xa;--sentence-context-size &quot;0&quot;&#xa;--stdout-format &quot;html&quot;&#xa;--de-fix-genitive&#xa;--de-gcs&#xa;--de-gcs-pos-tags &quot;!VERB&quot;&#xa;--de-gcs-split-mode &quot;combined&quot;&#xa;--de-gcs-preserve-compound-word&#xa;--de-gcs-skip-merge-fractions" enabled="1" icon="" id="3b6d899a3250c7565990293bcecd11e0" name="De kW L" type="2"/>
+  <program commandLine="&quot;U:/voothi/20250825231214-spacy-env/Scripts/python.exe&quot;&#xa;&quot;U:/voothi/20241223170748-kardenwort/src/kardenwort/core/kardenwort_runner.py&quot;&#xa;--language &quot;en&quot;&#xa;--mode &quot;mixed-triple&quot;&#xa;--text &quot;%GDWORD%&quot;&#xa;--tts-destination-lang &quot;ru&quot;&#xa;--deduplication-scope global&#xa;--anki-create-subdecks&#xa;--anki-markdown-decks&#xa;--anki-sentence-subdecks&#xa;--anki-deck-content parent-source parent-translations subdeck-source subdeck-translations&#xa;--suspend-cards&#xa;--show-success-message&#xa;--play-sound-on-completion" enabled="1" icon="" id="ff5b9cbf02bbcff50a44032b60d7c5ca" name="En kW Anki" type="0"/>
+  <program commandLine="&quot;U:/voothi/20250825231214-spacy-env/Scripts/python.exe&quot;&#xa;&quot;U:/voothi/20241223170748-kardenwort/src/kardenwort/core/kardenwort_runner.py&quot;&#xa;--language &quot;de&quot;&#xa;--mode &quot;mixed-triple&quot;&#xa;--text &quot;%GDWORD%&quot;&#xa;--tts-destination-lang &quot;ru&quot;&#xa;--deduplication-scope global&#xa;--anki-create-subdecks&#xa;--anki-markdown-decks&#xa;--anki-sentence-subdecks&#xa;--anki-deck-content parent-source parent-translations subdeck-source subdeck-translations&#xa;--suspend-cards&#xa;--show-success-message&#xa;--play-sound-on-completion" enabled="1" icon="" id="d50676c9523fc1a4e7fe5d63ca37c666" name="De kW S Anki" type="0"/>
+  <program commandLine="&quot;U:/voothi/20250825231214-spacy-env/Scripts/python.exe&quot;&#xa;&quot;U:/voothi/20241223170748-kardenwort/src/kardenwort/core/kardenwort_runner.py&quot;&#xa;--language &quot;de&quot;&#xa;--mode &quot;mixed-triple&quot;&#xa;--text &quot;%GDWORD%&quot;&#xa;--tts-destination-lang &quot;ru&quot;&#xa;--deduplication-scope sentence --anki-create-subdecks&#xa;--anki-markdown-decks&#xa;--anki-sentence-subdecks&#xa;--anki-deck-content parent-source parent-translations subdeck-source subdeck-translations&#xa;--suspend-cards&#xa;--show-success-message&#xa;--play-sound-on-completion" enabled="1" icon="" id="e7dc5a11bc3f8b361edad8d208c9981d" name="De kW S Anki dedup" type="0"/>
+  <program commandLine="&quot;U:/voothi/20250825231214-spacy-env/Scripts/python.exe&quot;&#xa;&quot;U:/voothi/20241223170748-kardenwort/src/kardenwort/core/kardenwort_runner.py&quot;&#xa;--type &quot;word&quot;&#xa;--language &quot;de&quot;&#xa;--text &quot;%GDWORD%&quot;&#xa;--de-gcs&#xa;--mode &quot;single&quot;&#xa;--tts-destination-lang &quot;ru&quot;&#xa;--suspend-cards&#xa;--multi-text" enabled="1" icon="" id="1c983f8fff4a6f5ebb8dbfe805201471" name="De kW M Anki" type="0"/>
+  <program commandLine="&quot;U:/voothi/20250825231214-spacy-env/Scripts/python.exe&quot;&#xa;&quot;U:/voothi/20241223170748-kardenwort/src/kardenwort/core/kardenwort_runner.py&quot;&#xa;--type &quot;word&quot;&#xa;--language &quot;de&quot;&#xa;--text &quot;%GDWORD%&quot;&#xa;--de-gcs&#xa;--de-gcs-pos-tags &quot;!VERB&quot;&#xa;--mode &quot;single&quot;&#xa;--tts-destination-lang &quot;ru&quot;&#xa;--suspend-cards&#xa;--multi-text" enabled="1" icon="" id="c4d16b195ed902d8c332833aff63d8a9" name="De kW L Anki" type="0"/>
+  <program commandLine="C:\Python\Python312\python.exe U:\voothi\20240408222910-goldendict-anki-search\anki-search.py --query &quot;%GDWORD%&quot; --search-type word --html" enabled="1" icon="" id="79c300ca6d91f5981842da1e58a761b2" name="Anki W HTML" type="2"/>
+  <program commandLine="C:\Python\Python312\python.exe U:\voothi\20240408222910-goldendict-anki-search\anki-search.py --query &quot;%GDWORD%&quot; --search-type sentence --html" enabled="1" icon="" id="63ced5dafb77d143f47d08c9d5f221c0" name="Anki S HTML" type="2"/>
+  <program commandLine="C:\Python\Python312\python.exe U:\voothi\20240408222910-goldendict-anki-search\anki-search.py --query &quot;%GDWORD%&quot; --search-type word --html --languages en --optimized" enabled="1" icon="" id="bc5a0b0f2f3d7dd61da3653dae8459b0" name="Anki W H En" type="2"/>
+  <program commandLine="C:\Python\Python312\python.exe U:\voothi\20240408222910-goldendict-anki-search\anki-search.py --query &quot;%GDWORD%&quot; --search-type sentence --html --languages en --optimized" enabled="1" icon="" id="5bc3ac49c2d0765f8904f03841fe521d" name="Anki S H En" type="2"/>
+  <program commandLine="C:\Python\Python312\python.exe U:\voothi\20240408222910-goldendict-anki-search\anki-search.py --query &quot;%GDWORD%&quot; --search-type word --html --languages --languages de --optimized" enabled="1" icon="" id="9d9885361ffbc0ffeb49a1f2a6ffb2ed" name="Anki W H De" type="2"/>
+  <program commandLine="C:\Python\Python312\python.exe U:\voothi\20240408222910-goldendict-anki-search\anki-search.py --query &quot;%GDWORD%&quot; --search-type sentence --html --languages de --optimized" enabled="1" icon="" id="f5023906792a087c58515130d83b6add" name="Anki S H De" type="2"/>
+  <program commandLine="C:\Python\Python312\python.exe U:\voothi\20240408222910-goldendict-anki-search\anki-search.py --browse-clipboard" enabled="1" icon="" id="ab638e72c53ff94ac32a40f4582c4db5" name="Anki B Clipboard" type="0"/>
+ </programs>
+ <mutedDictionaries>
+  <mutedDictionary>affcf9678e7bfe701c9b071f97eccba3</mutedDictionary>
+  <mutedDictionary>1203d87678d18a50c984562bb289dee0</mutedDictionary>
+ </mutedDictionaries>
+ <popupMutedDictionaries>
+  <mutedDictionary>affcf9678e7bfe701c9b071f97eccba3</mutedDictionary>
+  <mutedDictionary>4188a0497e0c2b7eb207c8c081db31a7</mutedDictionary>
+  <mutedDictionary>b09947600ae3902654f8ad4567ae8567</mutedDictionary>
+  <mutedDictionary>21c64bca5ec10ba17ff19f3066bc962a</mutedDictionary>
+ </popupMutedDictionaries>
+ <preferences>
+  <interfaceLanguage>en</interfaceLanguage>
+  <interfaceFont>Segoe UI</interfaceFont>
+  <interfaceFontSize_0>12</interfaceFontSize_0>
+  <customFonts monospace="Courier" sans-serif="Arial" serif="Times New Roman" standard="Times New Roman"/>
+  <displayStyle>modern</displayStyle>
+  <newTabsOpenAfterCurrentOne>1</newTabsOpenAfterCurrentOne>
+  <newTabsOpenInBackground>1</newTabsOpenInBackground>
+  <hideSingleTab>1</hideSingleTab>
+  <mruTabOrder>1</mruTabOrder>
+  <hideMenubar>0</hideMenubar>
+  <enableTrayIcon>1</enableTrayIcon>
+  <startToTray>1</startToTray>
+  <closeToTray>1</closeToTray>
+  <autoStart>1</autoStart>
+  <doubleClickTranslates>0</doubleClickTranslates>
+  <selectWordBySingleClick>0</selectWordBySingleClick>
+  <autoScrollToTargetArticle>0</autoScrollToTargetArticle>
+  <escKeyHidesMainWindow>1</escKeyHidesMainWindow>
+  <darkMode>1</darkMode>
+  <darkReaderMode>1</darkReaderMode>
+  <zoomFactor>0.9</zoomFactor>
+  <helpZoomFactor>1</helpZoomFactor>
+  <enableMainWindowHotkey>1</enableMainWindowHotkey>
+  <mainWindowHotkey>Ctrl+Alt+Shift+M</mainWindowHotkey>
+  <enableClipboardHotkey>1</enableClipboardHotkey>
+  <clipboardHotkey>Ctrl+Alt+Shift+N</clipboardHotkey>
+  <startWithScanPopupOn>0</startWithScanPopupOn>
+  <enableScanPopupModifiers>0</enableScanPopupModifiers>
+  <scanPopupModifiers>0</scanPopupModifiers>
+  <ignoreOwnClipboardChanges>0</ignoreOwnClipboardChanges>
+  <scanToMainWindow>0</scanToMainWindow>
+  <ignoreDiacritics>0</ignoreDiacritics>
+  <ignorePunctuation>1</ignorePunctuation>
+  <sessionCollapse>1</sessionCollapse>
+  <pronounceOnLoadMain>0</pronounceOnLoadMain>
+  <pronounceOnLoadPopup>0</pronounceOnLoadPopup>
+  <useInternalPlayer>1</useInternalPlayer>
+  <internalPlayerBackend>Qt Multimedia</internalPlayerBackend>
+  <audioPlaybackProgram></audioPlaybackProgram>
+  <alwaysOnTop>0</alwaysOnTop>
+  <searchInDock>0</searchInDock>
+  <historyStoreInterval>0</historyStoreInterval>
+  <favoritesStoreInterval>5</favoritesStoreInterval>
+  <confirmFavoritesDeletion>1</confirmFavoritesDeletion>
+  <proxyserver enabled="0" useSystemProxy="0">
+   <type>0</type>
+   <host></host>
+   <port>3128</port>
+   <user></user>
+   <password></password>
+  </proxyserver>
+  <ankiConnectServer enabled="1">
+   <host>127.0.0.1</host>
+   <port>8765</port>
+   <deck>Default</deck>
+   <model>Basic 20240218092126</model>
+   <text>WordSource</text>
+   <word>SentenceSource</word>
+   <sentence>Quotation</sentence>
+  </ankiConnectServer>
+  <checkForNewReleases>1</checkForNewReleases>
+  <disallowContentFromOtherSites>1</disallowContentFromOtherSites>
+  <hideGoldenDictHeader>1</hideGoldenDictHeader>
+  <maxNetworkCacheSize>50</maxNetworkCacheSize>
+  <clearNetworkCacheOnExit>1</clearNetworkCacheOnExit>
+  <removeInvalidIndexOnExit>0</removeInvalidIndexOnExit>
+  <enableApplicationLog>0</enableApplicationLog>
+  <maxStringsInHistory>1000</maxStringsInHistory>
+  <storeHistory>1</storeHistory>
+  <alwaysExpandOptionalParts>0</alwaysExpandOptionalParts>
+  <addonStyle></addonStyle>
+  <collapseBigArticles>0</collapseBigArticles>
+  <articleSizeLimit>2000</articleSizeLimit>
+  <limitInputPhraseLength>0</limitInputPhraseLength>
+  <inputPhraseLengthLimit>1000</inputPhraseLengthLimit>
+  <maxDictionaryRefsInContextMenu>100</maxDictionaryRefsInContextMenu>
+  <synonymSearchEnabled>1</synonymSearchEnabled>
+  <stripClipboard>0</stripClipboard>
+  <raiseWindowOnSearch>1</raiseWindowOnSearch>
+  <fullTextSearch>
+   <searchMode>0</searchMode>
+   <dialogGeometry>AdnQywADAAAAAAFdAAAACwAAA44AAAJ5AAABXQAAACkAAAOOAAACeQAAAAAAAAAABQAAAAFdAAAAKQAAA44AAAJ5</dialogGeometry>
+   <disabledTypes></disabledTypes>
+   <enabled>1</enabled>
+   <maxDictionarySize>0</maxDictionarySize>
+   <parallelThreads>8</parallelThreads>
+  </fullTextSearch>
+ </preferences>
+ <lastMainGroupId>2</lastMainGroupId>
+ <lastPopupGroupId>5</lastPopupGroupId>
+ <popupWindowState2>AAAA/wAAAAD9AAAAAAAAAXUAAAH7AAAABAAAAAQAAAAIAAAACPwAAAAEAAAAAQAAAAEAAAAkAHAAbwBwAHUAcABOAGEAdgBnAGkAYQB0AGkAbwBuAEIAYQByAgAAAAD/////AAAAAAAAAAAAAAACAAAAAQAAABwAcABvAHAAdQBwAFMAZQBhAHIAYwBoAEIAYQByAQAAAAD/////AAAAAAAAAAAAAAACAAAAAQAAABgAcABvAHAAdQBwAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAMAAAABAAAAGgBkAGkAYwB0AGkAbwBuAGEAcgB5AEIAYQByAQAAAAD/////AAAAAAAAAAA=</popupWindowState2>
+ <popupWindowGeometry2>AdnQywADAAAAAAOKAAAAKAAABP4AAAKeAAADigAAAEYAAAT+AAACngAAAAAAAAAABQAAAAOKAAAARgAABP4AAAKe</popupWindowGeometry2>
+ <pinPopupWindow>1</pinPopupWindow>
+ <popupWindowAlwaysOnTop>0</popupWindowAlwaysOnTop>
+ <mainWindowState>AAAA/wAAAAD9AAAAAgAAAAAAAAB4AAACBvwCAAAAAfsAAAAUAHMAZQBhAHIAYwBoAFAAYQBuAGUAAAAANAAAAgYAAACIAP///wAAAAEAAACLAAACBfwCAAAAA/sAAAAWAGgAaQBzAHQAbwByAHkAUABhAG4AZQEAAAA1AAACBQAAAGIA////+wAAABIAZABpAGMAdABzAFAAYQBuAGUAAAAANQAAAgUAAABiAP////sAAAAaAGYAYQB2AG8AcgBpAHQAZQBzAFAAYQBuAGUAAAABygAAAHAAAABiAP///wAAAloAAAIFAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAUAG4AYQB2AFQAbwBvAGwAYgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAMAAAABAAAAGgBkAGkAYwB0AGkAbwBuAGEAcgB5AEIAYQByAQAAAAD/////AAAAAAAAAAA=</mainWindowState>
+ <mainWindowGeometry>AdnQywADAAAAAAH/AAAAFAAABOkAAAKKAAAB/wAAADIAAATpAAACigAAAAAAAAAABQAAAAH/AAAAMgAABOkAAAKK</mainWindowGeometry>
+ <dictInfoGeometry>AdnQywADAAAAAAFKAAAAawAAA9cAAAIYAAABSgAAAIkAAAPXAAACGAAAAAAAAAAABQAAAAFKAAAAiQAAA9cAAAIY</dictInfoGeometry>
+ <inspectorGeometry></inspectorGeometry>
+ <dictionariesDialogGeometry>AdnQywADAAAAAAAA////+QAABP8AAAKfAAAAuwAAABkAAAQBAAACngAAAAACAAAABQAAAAAAAAAAFwAABP8AAAKf</dictionariesDialogGeometry>
+ <timeForNewReleaseCheck></timeForNewReleaseCheck>
+ <skippedRelease></skippedRelease>
+ <showingDictBarNames>0</showingDictBarNames>
+ <usingToolbarsIconSize>0</usingToolbarsIconSize>
+ <historyExportPath>C:\Users\voothi\Desktop</historyExportPath>
+ <maxHeadwordSize>256</maxHeadwordSize>
+ <maxHeadwordsToExpand>0</maxHeadwordsToExpand>
+ <headwordsDialog>
+  <searchMode>0</searchMode>
+  <matchCase>0</matchCase>
+  <autoApply>0</autoApply>
+  <headwordsExportPath></headwordsExportPath>
+  <headwordsDialogGeometry>AdnQywADAAAAAAGCAAAAKQAAA0sAAAJsAAABggAAAEcAAANLAAACbAAAAAAAAAAABQAAAAGCAAAARwAAA0sAAAJs</headwordsDialogGeometry>
+ </headwordsDialog>
+</config>
