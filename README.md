@@ -6,12 +6,18 @@
 A repository for tracking and managing user-specific configurations, styles, and settings for GoldenDict. This setup ensures that your dictionary environment is portable and version-controlled.
 
 ## Table of Contents
-- [Description](#description)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Git Integration](#git-integration)
-- [Kardenwort](#kardenwort)
-- [License](#license)
+- [GoldenDict Configuration](#goldendict-configuration)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Features](#features)
+  - [Environment](#environment)
+    - [Installation](#installation)
+    - [Known Issues](#known-issues)
+  - [Project Structure](#project-structure)
+  - [Git Integration](#git-integration)
+  - [Kardenwort Ecosystem](#kardenwort-ecosystem)
+  - [Related Projects](#related-projects)
+  - [License](#license)
 
 ---
 
